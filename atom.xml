@@ -42,6 +42,41 @@
   </entry>
   
   <entry>
+    <title>알고리즘 | 순열 조합 (Permutation &amp; Combination)</title>
+    <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/05/Algorithm-Permutation-and-Combination/"/>
+    <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/05/Algorithm-Permutation-and-Combination/</id>
+    <published>2019-08-05T08:22:01.000Z</published>
+    <updated>2019-09-04T08:26:53.860Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Algorithm-Permutation-amp-Combination-순열-조합&quot;&gt;&lt;a href=&quot;#Algorithm-Permutation-amp-Combination-순열-조합&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : Permutation &amp;amp; Combination (순열 조합)&quot;&gt;&lt;/a&gt;Algorithm : Permutation &amp;amp; Combination (순열 조합)&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;순열(Permutation)은 순서가 부여된 임의의 집합을 다른 순서로 뒤섞는 연산이며, 조합(Combination)은 집합에서 일부 원소를 취해 부분 집합을 만드는 방법을 말합니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="Computer Science" scheme="http://chanmi-kim.github.io/categories/Computer-Science/"/>
+    
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/categories/Computer-Science/Algorithm/"/>
+    
+    
+      <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
+    
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
+      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
+    
+      <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="Permutation" scheme="http://chanmi-kim.github.io/tags/Permutation/"/>
+    
+      <category term="Combination" scheme="http://chanmi-kim.github.io/tags/Combination/"/>
+    
+  </entry>
+  
+  <entry>
     <title>알고리즘 | 동적 계획법 (Dynamic Programming)</title>
     <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/04/Algorithm-Dynamic-Programming/"/>
     <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/04/Algorithm-Dynamic-Programming/</id>
