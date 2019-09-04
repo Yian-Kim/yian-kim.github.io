@@ -42,6 +42,39 @@
   </entry>
   
   <entry>
+    <title>알고리즘 | 너비 우선 탐색 (BFS Searching)</title>
+    <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/02/Algorithm-BFS-Searching/"/>
+    <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/02/Algorithm-BFS-Searching/</id>
+    <published>2019-08-02T07:35:42.000Z</published>
+    <updated>2019-09-04T07:43:20.581Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Algorithm-BFS-Searching-너비-우선-탐색&quot;&gt;&lt;a href=&quot;#Algorithm-BFS-Searching-너비-우선-탐색&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : BFS Searching (너비 우선 탐색)&quot;&gt;&lt;/a&gt;Algorithm : BFS Searching (너비 우선 탐색)&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;너비 우선 탐색(BFS Searching, Breadth First Search)은 맹목적 탐색방법의 하나로 시작 정점을 방문한 후 시작 정점에 인접한 모든 정점들을 우선 방문하는 방법입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="Computer Science" scheme="http://chanmi-kim.github.io/categories/Computer-Science/"/>
+    
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/categories/Computer-Science/Algorithm/"/>
+    
+    
+      <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
+    
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
+      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
+    
+      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
+    
+      <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>알고리즘 | 깊이 우선 탐색 (DFS Searching)</title>
     <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/01/Algorithm-DFS-Searching/"/>
     <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/01/Algorithm-DFS-Searching/</id>
@@ -97,13 +130,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
-      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
     
   </entry>
   
