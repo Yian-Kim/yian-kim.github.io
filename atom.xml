@@ -42,11 +42,44 @@
   </entry>
   
   <entry>
+    <title>알고리즘 | 동적 계획법 (Dynamic Programming)</title>
+    <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/04/Algorithm-Dynamic-Programming/"/>
+    <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/04/Algorithm-Dynamic-Programming/</id>
+    <published>2019-08-04T07:58:40.000Z</published>
+    <updated>2019-09-04T08:06:43.015Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Algorithm-Dynamic-Programming-동적-계획법&quot;&gt;&lt;a href=&quot;#Algorithm-Dynamic-Programming-동적-계획법&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : Dynamic Programming (동적 계획법)&quot;&gt;&lt;/a&gt;Algorithm : Dynamic Programming (동적 계획법)&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;동적 계획법(Dynamic programming)은 복잡한 문제를 풀기위해서 간단한 여러 개의 하위 문제로 나누어 푼 다음, 그것을 결합하여 목적에 도달하는 방법입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="Computer Science" scheme="http://chanmi-kim.github.io/categories/Computer-Science/"/>
+    
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/categories/Computer-Science/Algorithm/"/>
+    
+    
+      <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
+    
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
+      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
+    
+      <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="Dynamic Programming" scheme="http://chanmi-kim.github.io/tags/Dynamic-Programming/"/>
+    
+  </entry>
+  
+  <entry>
     <title>알고리즘 | 매개변수 탐색 (Parametric Search)</title>
     <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/03/Algorithm-Parametric-Search/"/>
     <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/03/Algorithm-Parametric-Search/</id>
     <published>2019-08-03T07:45:00.000Z</published>
-    <updated>2019-09-04T07:52:54.177Z</updated>
+    <updated>2019-09-04T08:03:40.275Z</updated>
     
     <summary type="html">
     
@@ -97,13 +130,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
-      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
     
   </entry>
   
@@ -163,13 +196,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
+      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
     
   </entry>
   
