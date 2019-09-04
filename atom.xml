@@ -42,11 +42,44 @@
   </entry>
   
   <entry>
+    <title>알고리즘 | 매개변수 탐색 (Parametric Search)</title>
+    <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/03/Algorithm-Parametric-Search/"/>
+    <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/03/Algorithm-Parametric-Search/</id>
+    <published>2019-08-03T07:45:00.000Z</published>
+    <updated>2019-09-04T07:52:54.177Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Algorithm-Parametric-Search-매개변수-탐색&quot;&gt;&lt;a href=&quot;#Algorithm-Parametric-Search-매개변수-탐색&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : Parametric Search (매개변수 탐색)&quot;&gt;&lt;/a&gt;Algorithm : Parametric Search (매개변수 탐색)&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;매개변수 탐색(Parametric Search)은 어떤 알고리즘으로 해를 바로 구해내는 것이 아니고, 임의의 값을 던지고 맞는지 확인해가며 해를 구하는 방법입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="Computer Science" scheme="http://chanmi-kim.github.io/categories/Computer-Science/"/>
+    
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/categories/Computer-Science/Algorithm/"/>
+    
+    
+      <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
+    
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
+      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
+    
+      <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="Parametric Search" scheme="http://chanmi-kim.github.io/tags/Parametric-Search/"/>
+    
+  </entry>
+  
+  <entry>
     <title>알고리즘 | 너비 우선 탐색 (BFS Searching)</title>
     <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/02/Algorithm-BFS-Searching/"/>
     <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/02/Algorithm-BFS-Searching/</id>
     <published>2019-08-02T07:35:42.000Z</published>
-    <updated>2019-09-04T07:43:20.581Z</updated>
+    <updated>2019-09-04T07:45:06.905Z</updated>
     
     <summary type="html">
     

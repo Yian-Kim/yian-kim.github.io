@@ -8,8 +8,16 @@
     </url>
 
     <url>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/03/Algorithm-Parametric-Search/</loc>
+        <lastmod>2019-09-04T07:52:54.177Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/02/Algorithm-BFS-Searching/</loc>
-        <lastmod>2019-09-04T07:43:20.581Z</lastmod>
+        <lastmod>2019-09-04T07:45:06.905Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
