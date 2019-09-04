@@ -8,8 +8,72 @@
     </url>
 
     <url>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/26/Data-Structure-Tree/</loc>
+        <lastmod>2019-09-04T08:54:00.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/22/Data-Structure-Queue/</loc>
+        <lastmod>2019-09-04T08:53:52.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/23/Data-Structure-Priority-Queue/</loc>
+        <lastmod>2019-09-04T08:53:47.362Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/28/Data-Structure-Linked-List/</loc>
+        <lastmod>2019-09-04T08:53:43.133Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/27/Data-Structure-Graph/</loc>
+        <lastmod>2019-09-04T08:53:35.445Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/05/Algorithm-Permutation-and-Combination/</loc>
-        <lastmod>2019-09-04T08:26:53.860Z</lastmod>
+        <lastmod>2019-09-04T08:53:27.218Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/07/24/Algorithm-Insertion-Sort/</loc>
+        <lastmod>2019-09-04T08:53:20.751Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/07/Algorithm-Dijkstra/</loc>
+        <lastmod>2019-09-04T08:53:12.883Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/07/30/Algorithm-Counting-Sort/</loc>
+        <lastmod>2019-09-04T08:53:03.834Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -56,14 +120,6 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/07/30/Algorithm-Counting-Sort/</loc>
-        <lastmod>2019-09-01T11:38:50.135Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/21/Data-Structure-Stack/</loc>
         <lastmod>2019-09-01T11:28:27.281Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -96,56 +152,8 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/27/Data-Structure-Graph/</loc>
-        <lastmod>2019-09-01T11:28:27.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/25/Data-Structure-Hash/</loc>
         <lastmod>2019-09-01T11:28:27.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/28/Data-Structure-Linked-List/</loc>
-        <lastmod>2019-09-01T11:28:27.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/23/Data-Structure-Priority-Queue/</loc>
-        <lastmod>2019-09-01T11:28:27.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/22/Data-Structure-Queue/</loc>
-        <lastmod>2019-09-01T11:28:27.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/26/Data-Structure-Tree/</loc>
-        <lastmod>2019-09-01T11:28:27.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/07/24/Algorithm-Insertion-Sort/</loc>
-        <lastmod>2019-09-01T11:28:27.277Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

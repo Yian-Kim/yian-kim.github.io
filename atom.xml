@@ -6,7 +6,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://chanmi-kim.github.io/"/>
-  <updated>2019-09-01T11:28:27.281Z</updated>
+  <updated>2019-09-04T08:53:12.883Z</updated>
   <id>http://chanmi-kim.github.io/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>알고리즘 | 다익스트라 (Dijkstra)</title>
+    <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/07/Algorithm-Dijkstra/"/>
+    <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/07/Algorithm-Dijkstra/</id>
+    <published>2019-08-07T08:37:38.000Z</published>
+    <updated>2019-09-04T08:53:12.883Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Algorithm-Dijkstra-다익스트라&quot;&gt;&lt;a href=&quot;#Algorithm-Dijkstra-다익스트라&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : Dijkstra (다익스트라)&quot;&gt;&lt;/a&gt;Algorithm : Dijkstra (다익스트라)&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;다익스트라 알고리즘(Dijkstra)은 어떤 변도 음수 가중치를 갖지 않는 유향 그래프에서 주어진 출발점과 도착점 사이의 최단 경로 문제를 푸는 알고리즘입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="Computer Science" scheme="http://chanmi-kim.github.io/categories/Computer-Science/"/>
+    
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/categories/Computer-Science/Algorithm/"/>
+    
+    
+      <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
+    
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
+      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
+    
+      <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="Dijkstra" scheme="http://chanmi-kim.github.io/tags/Dijkstra/"/>
+    
+  </entry>
   
   <entry>
     <title>운영체제 | #01 운영체제 소개</title>
@@ -46,7 +79,7 @@
     <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/05/Algorithm-Permutation-and-Combination/"/>
     <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/05/Algorithm-Permutation-and-Combination/</id>
     <published>2019-08-05T08:22:01.000Z</published>
-    <updated>2019-09-04T08:26:53.860Z</updated>
+    <updated>2019-09-04T08:53:27.218Z</updated>
     
     <summary type="html">
     
@@ -246,7 +279,7 @@
     <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/07/30/Algorithm-Counting-Sort/"/>
     <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/07/30/Algorithm-Counting-Sort/</id>
     <published>2019-07-30T11:35:17.000Z</published>
-    <updated>2019-09-01T11:38:50.135Z</updated>
+    <updated>2019-09-04T08:53:03.834Z</updated>
     
     <summary type="html">
     
@@ -312,7 +345,7 @@
     <link href="http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/28/Data-Structure-Linked-List/"/>
     <id>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/28/Data-Structure-Linked-List/</id>
     <published>2019-07-28T07:39:07.000Z</published>
-    <updated>2019-09-01T11:28:27.278Z</updated>
+    <updated>2019-09-04T08:53:43.133Z</updated>
     
     <summary type="html">
     
@@ -345,7 +378,7 @@
     <link href="http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/27/Data-Structure-Graph/"/>
     <id>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/27/Data-Structure-Graph/</id>
     <published>2019-07-27T07:23:05.000Z</published>
-    <updated>2019-09-01T11:28:27.278Z</updated>
+    <updated>2019-09-04T08:53:35.445Z</updated>
     
     <summary type="html">
     
@@ -378,7 +411,7 @@
     <link href="http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/26/Data-Structure-Tree/"/>
     <id>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/26/Data-Structure-Tree/</id>
     <published>2019-07-26T07:12:52.000Z</published>
-    <updated>2019-09-01T11:28:27.278Z</updated>
+    <updated>2019-09-04T08:54:00.051Z</updated>
     
     <summary type="html">
     
@@ -444,7 +477,7 @@
     <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/07/24/Algorithm-Insertion-Sort/"/>
     <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/07/24/Algorithm-Insertion-Sort/</id>
     <published>2019-07-24T06:34:35.000Z</published>
-    <updated>2019-09-01T11:28:27.277Z</updated>
+    <updated>2019-09-04T08:53:20.751Z</updated>
     
     <summary type="html">
     
@@ -477,7 +510,7 @@
     <link href="http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/23/Data-Structure-Priority-Queue/"/>
     <id>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/23/Data-Structure-Priority-Queue/</id>
     <published>2019-07-23T06:10:27.000Z</published>
-    <updated>2019-09-01T11:28:27.278Z</updated>
+    <updated>2019-09-04T08:53:47.362Z</updated>
     
     <summary type="html">
     
@@ -510,7 +543,7 @@
     <link href="http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/22/Data-Structure-Queue/"/>
     <id>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/22/Data-Structure-Queue/</id>
     <published>2019-07-22T06:10:27.000Z</published>
-    <updated>2019-09-01T11:28:27.278Z</updated>
+    <updated>2019-09-04T08:53:52.516Z</updated>
     
     <summary type="html">
     

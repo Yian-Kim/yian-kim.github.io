@@ -8,15 +8,22 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/categories/Computer-Science/Algorithm/</loc>
-        <lastmod>2019-09-04T08:26:53.860Z</lastmod>
+        <loc>http://chanmi-kim.github.io/categories/Computer-Science/Data-Structure/</loc>
+        <lastmod>2019-09-04T08:54:00.051Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://chanmi-kim.github.io/categories/Computer-Science/</loc>
-        <lastmod>2019-09-04T08:26:53.860Z</lastmod>
+        <lastmod>2019-09-04T08:54:00.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/categories/Computer-Science/Algorithm/</loc>
+        <lastmod>2019-09-04T08:53:27.218Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -37,13 +44,6 @@
 
     <url>
         <loc>http://chanmi-kim.github.io/categories/Devlog/</loc>
-        <lastmod>2019-09-01T11:28:27.281Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/categories/Computer-Science/Data-Structure/</loc>
         <lastmod>2019-09-01T11:28:27.281Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

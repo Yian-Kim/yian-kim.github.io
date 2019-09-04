@@ -3,50 +3,113 @@
 
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Combination/</loc>
-        <lastmod>2019-09-04T08:26:53.860Z</lastmod>
+        <loc>http://chanmi-kim.github.io/tags/Tree/</loc>
+        <lastmod>2019-09-04T08:54:00.051Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Permutation/</loc>
-        <lastmod>2019-09-04T08:26:53.860Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/C/</loc>
-        <lastmod>2019-09-04T08:26:53.860Z</lastmod>
+        <loc>http://chanmi-kim.github.io/tags/Data-Structure/</loc>
+        <lastmod>2019-09-04T08:54:00.051Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/C/</loc>
-        <lastmod>2019-09-04T08:26:53.860Z</lastmod>
+        <lastmod>2019-09-04T08:54:00.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/C/</loc>
+        <lastmod>2019-09-04T08:54:00.051Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/Java/</loc>
-        <lastmod>2019-09-04T08:26:53.860Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Algorithm/</loc>
-        <lastmod>2019-09-04T08:26:53.860Z</lastmod>
+        <lastmod>2019-09-04T08:54:00.051Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/Computer-Science/</loc>
-        <lastmod>2019-09-04T08:26:53.860Z</lastmod>
+        <lastmod>2019-09-04T08:54:00.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Queue/</loc>
+        <lastmod>2019-09-04T08:53:52.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Priority-Queue/</loc>
+        <lastmod>2019-09-04T08:53:47.362Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Linked-List/</loc>
+        <lastmod>2019-09-04T08:53:43.133Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Graph/</loc>
+        <lastmod>2019-09-04T08:53:35.445Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Combination/</loc>
+        <lastmod>2019-09-04T08:53:27.218Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Permutation/</loc>
+        <lastmod>2019-09-04T08:53:27.218Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Algorithm/</loc>
+        <lastmod>2019-09-04T08:53:27.218Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Insertion-Sort/</loc>
+        <lastmod>2019-09-04T08:53:20.751Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Dijkstra/</loc>
+        <lastmod>2019-09-04T08:53:12.883Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Counting-Sort/</loc>
+        <lastmod>2019-09-04T08:53:03.834Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -87,13 +150,6 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Counting-Sort/</loc>
-        <lastmod>2019-09-01T11:38:50.135Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://chanmi-kim.github.io/tags/Operating-System/</loc>
         <lastmod>2019-09-01T11:28:27.281Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,49 +171,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Data-Structure/</loc>
-        <lastmod>2019-09-01T11:28:27.281Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Tree/</loc>
-        <lastmod>2019-09-01T11:28:27.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Queue/</loc>
-        <lastmod>2019-09-01T11:28:27.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Priority-Queue/</loc>
-        <lastmod>2019-09-01T11:28:27.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Linked-List/</loc>
-        <lastmod>2019-09-01T11:28:27.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://chanmi-kim.github.io/tags/Hash/</loc>
-        <lastmod>2019-09-01T11:28:27.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Graph/</loc>
         <lastmod>2019-09-01T11:28:27.278Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -172,13 +186,6 @@
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/Quick-Sort/</loc>
-        <lastmod>2019-09-01T11:28:27.277Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Insertion-Sort/</loc>
         <lastmod>2019-09-01T11:28:27.277Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
