@@ -42,6 +42,39 @@
   </entry>
   
   <entry>
+    <title>알고리즘 | 깊이 우선 탐색 (DFS Searching)</title>
+    <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/01/Algorithm-DFS-Searching/"/>
+    <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/01/Algorithm-DFS-Searching/</id>
+    <published>2019-08-01T07:19:12.000Z</published>
+    <updated>2019-09-04T07:26:42.270Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Algorithm-DFS-Searching-깊이-우선-탐색&quot;&gt;&lt;a href=&quot;#Algorithm-DFS-Searching-깊이-우선-탐색&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : DFS Searching (깊이 우선 탐색)&quot;&gt;&lt;/a&gt;Algorithm : DFS Searching (깊이 우선 탐색)&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;깊이 우선 탐색(DFS Searching, Depth First Searching)은 맹목적 탐색방법의 하나로 한 노드를 시작으로 인접한 다른 노드를 재귀적으로 탐색해가고 끝까지 탐색하면 다시 위로 와서 다음을 탐색하여 검색합니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="Computer Science" scheme="http://chanmi-kim.github.io/categories/Computer-Science/"/>
+    
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/categories/Computer-Science/Algorithm/"/>
+    
+    
+      <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
+    
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
+      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
+    
+      <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="DFS Searching" scheme="http://chanmi-kim.github.io/tags/DFS-Searching/"/>
+    
+  </entry>
+  
+  <entry>
     <title>알고리즘 | 이진 탐색 (Binary Search)</title>
     <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/07/31/Algorithm-Binary-Search/"/>
     <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/07/31/Algorithm-Binary-Search/</id>
