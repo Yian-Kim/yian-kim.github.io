@@ -231,13 +231,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
+      <category term="DFS Searching" scheme="http://chanmi-kim.github.io/tags/DFS-Searching/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="DFS Searching" scheme="http://chanmi-kim.github.io/tags/DFS-Searching/"/>
     
   </entry>
   
@@ -297,13 +297,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
-      <category term="Counting Sort" scheme="http://chanmi-kim.github.io/tags/Counting-Sort/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="Counting Sort" scheme="http://chanmi-kim.github.io/tags/Counting-Sort/"/>
     
   </entry>
   
