@@ -6,7 +6,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://chanmi-kim.github.io/"/>
-  <updated>2019-09-17T14:21:41.131Z</updated>
+  <updated>2019-09-25T13:40:38.975Z</updated>
   <id>http://chanmi-kim.github.io/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>[이슈등록] Java 배열에서 최대값 찾기 구문에러</title>
+    <link href="http://chanmi-kim.github.io/Issues/2019/09/25/Issues-Java-Collection-max/"/>
+    <id>http://chanmi-kim.github.io/Issues/2019/09/25/Issues-Java-Collection-max/</id>
+    <published>2019-09-25T14:45:58.000Z</published>
+    <updated>2019-09-25T13:40:38.975Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Error: &lt;code&gt;The method max(Collection&amp;lt;? extends T&amp;gt;) in the type Collections is not applicable for the arguments (int[])&lt;/code&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Issues" scheme="http://chanmi-kim.github.io/categories/Issues/"/>
+    
+    
+      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
+    
+      <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
+    
+      <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
+    
+      <category term="Collections" scheme="http://chanmi-kim.github.io/tags/Collections/"/>
+    
+      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
+    
+  </entry>
+  
+  <entry>
     <title>후기 | NHN 2019 하반기 기술부문 신입사원 공개채용 설명회</title>
     <link href="http://chanmi-kim.github.io/Review/2019/09/16/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/"/>
     <id>http://chanmi-kim.github.io/Review/2019/09/16/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/</id>
     <published>2019-09-16T14:12:54.000Z</published>
-    <updated>2019-09-17T14:21:41.131Z</updated>
+    <updated>2019-09-25T12:48:55.806Z</updated>
     
     <summary type="html">
     
@@ -227,13 +255,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
-      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
     
   </entry>
   
@@ -293,13 +321,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
+      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
     
   </entry>
   
@@ -630,39 +658,6 @@
       <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
     
       <category term="Stack" scheme="http://chanmi-kim.github.io/tags/Stack/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>알고리즘 | 재귀(Recursion)</title>
-    <link href="http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/07/20/Algorithm-Recursion/"/>
-    <id>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/07/20/Algorithm-Recursion/</id>
-    <published>2019-07-20T14:22:46.000Z</published>
-    <updated>2019-09-01T11:28:27.278Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;Algorithm-Recursion-재귀&quot;&gt;&lt;a href=&quot;#Algorithm-Recursion-재귀&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : Recursion(재귀)&quot;&gt;&lt;/a&gt;Algorithm : Recursion(재귀)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;재귀(Recursion)는 수학이나 컴퓨터 과학 등에서 자신을 정의할 때 자기 자신을 재참조하는 방법을 뜻합니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="Computer Science" scheme="http://chanmi-kim.github.io/categories/Computer-Science/"/>
-    
-      <category term="Algorithm" scheme="http://chanmi-kim.github.io/categories/Computer-Science/Algorithm/"/>
-    
-    
-      <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
-    
-      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
-    
-      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
-    
-      <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Recursion" scheme="http://chanmi-kim.github.io/tags/Recursion/"/>
     
   </entry>
   

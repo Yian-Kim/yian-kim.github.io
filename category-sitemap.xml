@@ -8,8 +8,15 @@
     </url>
 
     <url>
+        <loc>http://chanmi-kim.github.io/categories/Issues/</loc>
+        <lastmod>2019-09-25T13:40:38.975Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/categories/Review/</loc>
-        <lastmod>2019-09-17T14:21:41.131Z</lastmod>
+        <lastmod>2019-09-25T12:48:55.806Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
