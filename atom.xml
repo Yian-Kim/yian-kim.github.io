@@ -6,7 +6,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://chanmi-kim.github.io/"/>
-  <updated>2019-09-25T13:40:38.975Z</updated>
+  <updated>2019-09-29T14:51:21.825Z</updated>
   <id>http://chanmi-kim.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[이슈해결] Java ArrayIndexOutOfBoundsException</title>
+    <link href="http://chanmi-kim.github.io/Issues/2019/09/29/Issues-Java-ArrayIndexOutOfBoundsException/"/>
+    <id>http://chanmi-kim.github.io/Issues/2019/09/29/Issues-Java-ArrayIndexOutOfBoundsException/</id>
+    <published>2019-09-29T14:29:44.000Z</published>
+    <updated>2019-09-29T14:51:21.825Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Error: &lt;code&gt;java.lang.ArrayIndexOutOfBoundsException&lt;/code&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Issues" scheme="http://chanmi-kim.github.io/categories/Issues/"/>
+    
+    
+      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
+    
+      <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
+    
+      <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
+    
+      <category term="ArrayIndexOutOfBoundsException" scheme="http://chanmi-kim.github.io/tags/ArrayIndexOutOfBoundsException/"/>
+    
+  </entry>
   
   <entry>
     <title>[이슈등록] Java 배열에서 최대값 찾기 구문에러</title>
@@ -321,13 +347,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
-      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
     
   </entry>
   
@@ -354,13 +380,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
+      <category term="Counting Sort" scheme="http://chanmi-kim.github.io/tags/Counting-Sort/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Counting Sort" scheme="http://chanmi-kim.github.io/tags/Counting-Sort/"/>
     
   </entry>
   
@@ -625,39 +651,6 @@
       <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
     
       <category term="Queue" scheme="http://chanmi-kim.github.io/tags/Queue/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>자료구조 | 스택 (Stack)</title>
-    <link href="http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/21/Data-Structure-Stack/"/>
-    <id>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/21/Data-Structure-Stack/</id>
-    <published>2019-07-21T14:22:46.000Z</published>
-    <updated>2019-09-01T11:28:27.281Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;Data-Structure-Stack-스택&quot;&gt;&lt;a href=&quot;#Data-Structure-Stack-스택&quot; class=&quot;headerlink&quot; title=&quot;Data Structure : Stack(스택)&quot;&gt;&lt;/a&gt;Data Structure : Stack(스택)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;스택은 한 쪽 끝에서만 자료를 넣거나 뺄 수 있는 선형 구조(LIFO - Last In First Out)로 데이터를 저장하는 형식을 말합니다.&lt;/li&gt;&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="Computer Science" scheme="http://chanmi-kim.github.io/categories/Computer-Science/"/>
-    
-      <category term="Data Structure" scheme="http://chanmi-kim.github.io/categories/Computer-Science/Data-Structure/"/>
-    
-    
-      <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
-    
-      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
-    
-      <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
-    
-      <category term="Stack" scheme="http://chanmi-kim.github.io/tags/Stack/"/>
     
   </entry>
   
