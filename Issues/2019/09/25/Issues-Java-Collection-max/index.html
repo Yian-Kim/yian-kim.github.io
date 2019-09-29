@@ -25,7 +25,7 @@
 <meta property="og:description" content="Error: The method max(Collection&amp;lt;? extends T&amp;gt;) in the type Collections is not applicable for the arguments (int[])">
 <meta property="og:locale" content="en">
 <meta property="og:image" content="http://chanmi-kim.github.io/images/Issues/Java/Algorithm-Problem-Solving/Issues-Java-Collection-max_thumnail.png">
-<meta property="og:updated_time" content="2019-09-25T13:40:38.975Z">
+<meta property="og:updated_time" content="2019-09-29T15:12:07.651Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="[이슈등록] Java 배열에서 최대값 찾기 구문에러">
 <meta name="twitter:description" content="Error: The method max(Collection&amp;lt;? extends T&amp;gt;) in the type Collections is not applicable for the arguments (int[])">
@@ -193,15 +193,28 @@
             <p>Error: <code>The method max(Collection&lt;? extends T&gt;) in the type Collections is not applicable for the arguments (int[])</code></p>
 <a id="more"></a>
 
-<h2 id="🌰-오류메시지"><a href="#🌰-오류메시지" class="headerlink" title="🌰 오류메시지"></a>🌰 오류메시지</h2><figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-comment">// Error Message</span></span><br><span class="line"></span><br><span class="line">Exception in thread <span class="hljs-string">"main"</span> java.lang.Error: Unresolved compilation problem: </span><br><span class="line">   <span class="hljs-function">The method <span class="hljs-title">max</span><span class="hljs-params">(Collection&lt;? extends T&gt;)</span> in the type Collections is not applicable <span class="hljs-keyword">for</span> the <span class="hljs-title">arguments</span> <span class="hljs-params">(<span class="hljs-keyword">int</span>[])</span></span></span><br><span class="line"><span class="hljs-function">   </span></span><br><span class="line"><span class="hljs-function">   at Main.<span class="hljs-title">main</span><span class="hljs-params">(Main.java:<span class="hljs-number">28</span>)</span></span></span><br></pre></td></tr></table></figure>
+<h2 id="🌰-오류메시지"><a href="#🌰-오류메시지" class="headerlink" title="🌰 오류메시지"></a>🌰 오류메시지</h2><br>
 
-<h2 id="💎-문제상황"><a href="#💎-문제상황" class="headerlink" title="💎 문제상황"></a>💎 문제상황</h2><p>비타알고 알고리즘 문제를 풀다가 오류가 발생했습니다. C++에서 max_element 사용해서 배열 자체를 최대값을 찾는게 가능한 것 같은데 Java에서는 Math.max로 배열 비교가 안되는 것 같습니다. Java API Document에서도 찾지 못했습니다. </p>
-<h2 id="🧩-예시코드"><a href="#🧩-예시코드" class="headerlink" title="🧩 예시코드"></a>🧩 예시코드</h2><figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-comment">// Full Code는 추후 업데이트 하도록 하겠습니다.</span></span><br><span class="line"></span><br><span class="line"><span class="hljs-keyword">int</span> maxNum = Collections.max(dp);</span><br></pre></td></tr></table></figure>
+<figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-comment">// Error Message</span></span><br><span class="line"></span><br><span class="line">Exception in thread <span class="hljs-string">"main"</span> java.lang.Error: Unresolved compilation problem: </span><br><span class="line">   <span class="hljs-function">The method <span class="hljs-title">max</span><span class="hljs-params">(Collection&lt;? extends T&gt;)</span> in the type Collections is not applicable <span class="hljs-keyword">for</span> the <span class="hljs-title">arguments</span> <span class="hljs-params">(<span class="hljs-keyword">int</span>[])</span></span></span><br><span class="line"><span class="hljs-function">   </span></span><br><span class="line"><span class="hljs-function">   at Main.<span class="hljs-title">main</span><span class="hljs-params">(Main.java:<span class="hljs-number">28</span>)</span></span></span><br></pre></td></tr></table></figure>
+
+<br>
+
+<h2 id="💎-문제상황"><a href="#💎-문제상황" class="headerlink" title="💎 문제상황"></a>💎 문제상황</h2><br>
+
+<p>비타알고 알고리즘 문제를 풀다가 오류가 발생했습니다. C++에서 max_element 사용해서 배열 자체를 최대값을 찾는게 가능한 것 같은데 Java에서는 Math.max로 배열 비교가 안되는 것 같습니다. Java API Document에서도 찾지 못했습니다. </p>
+<br>
+
+<h2 id="🧩-예시코드"><a href="#🧩-예시코드" class="headerlink" title="🧩 예시코드"></a>🧩 예시코드</h2><br>
+
+<figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-comment">// Full Code는 추후 업데이트 하도록 하겠습니다.</span></span><br><span class="line"></span><br><span class="line"><span class="hljs-keyword">int</span> maxNum = Collections.max(dp);</span><br></pre></td></tr></table></figure>
+
+<br>
 
 <h2 id="🔑-해결방안"><a href="#🔑-해결방안" class="headerlink" title="🔑 해결방안"></a>🔑 해결방안</h2><p>여기서 2가지 궁금증을 가지고 이슈등록을 진행했으며, 해결되는대로 글을 업데이트하겠습니다. 우선, Arrays와 Collections에 대한 기초가 미흡하다고 느껴서 그 부분에 대해 공부를 해봐야겠네요.</p>
 <p>1) C++에서 max_element가 Java에서 Math.max랑 같은가?</p>
 <p>2) Java로 구현하려면 하나씩 max 일일이 비교해야 되는것인가?</p>
 <p>해결되는대로 본문 수정하겠습니다.</p>
+<br>
 
         </div>
         
