@@ -9,7 +9,7 @@
 
 
 <!-- ejs -->
-<link rel="canonical" href="http://chanmi-kim.github.io/language/java/2019/10/03/java-easily-confused-java-concepts-sharp01-array/">
+<link rel="canonical" href="http://chanmi-kim.github.io/language/java/2019/10/03/java-easily-confused-java-concepts-01-array/">
 
 <meta name="naver-site-verification" content="300b8851a7dc562c976d8091fce1b1947f82cc6c">
 
@@ -20,12 +20,12 @@
 <meta name="keywords" content="Java,Language,Array">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Java | 헷갈리기 쉬운 Java 개념 #01 배열">
-<meta property="og:url" content="http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-Sharp01-Array/index.html">
+<meta property="og:url" content="http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-01-Array/index.html">
 <meta property="og:site_name" content="Chanmi&#39;s Devlog">
 <meta property="og:description" content="헷갈리기 쉬운 Java 개념 중 배열에 대해 다루어, 간략히 정리했습니다.Java 언어에 대한 기본적인 지식이 있어야 이해할 수 있는 포스트입니다.">
 <meta property="og:locale" content="en">
 <meta property="og:image" content="http://chanmi-kim.github.io/images/og_image.png">
-<meta property="og:updated_time" content="2019-10-04T14:04:52.477Z">
+<meta property="og:updated_time" content="2019-10-05T14:27:34.383Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Java | 헷갈리기 쉬운 Java 개념 #01 배열">
 <meta name="twitter:description" content="헷갈리기 쉬운 Java 개념 중 배열에 대해 다루어, 간략히 정리했습니다.Java 언어에 대한 기본적인 지식이 있어야 이해할 수 있는 포스트입니다.">
@@ -184,23 +184,25 @@
             
         </h1>
         <div class="content">
-            <p>헷갈리기 쉬운 Java 개념 중 배열에 대해 다루어, 간략히 정리했습니다.<br>Java 언어에 대한 기본적인 지식이 있어야 이해할 수 있는 포스트입니다.</p>
+            <br>
+
+<p>헷갈리기 쉬운 Java 개념 중 배열에 대해 다루어, 간략히 정리했습니다.<br>Java 언어에 대한 기본적인 지식이 있어야 이해할 수 있는 포스트입니다.</p>
 <a id="more"></a>
 <br>
 
-<h3 id="1-1차원-배열-선언하는-방법"><a href="#1-1차원-배열-선언하는-방법" class="headerlink" title="1. 1차원 배열 선언하는 방법"></a>1. 1차원 배열 선언하는 방법</h3><br>
+<h2 id="1-1차원-배열-선언하는-방법"><a href="#1-1차원-배열-선언하는-방법" class="headerlink" title="1. 1차원 배열 선언하는 방법"></a>1. 1차원 배열 선언하는 방법</h2><br>
 
 <figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-comment">// 방법1</span></span><br><span class="line"><span class="hljs-keyword">int</span>[] arr1 = <span class="hljs-keyword">new</span> <span class="hljs-keyword">int</span>[<span class="hljs-number">5</span>];</span><br><span class="line"></span><br><span class="line"><span class="hljs-comment">// 방법2</span></span><br><span class="line"><span class="hljs-keyword">int</span>[] arr2 = &#123;<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>&#125;;</span><br><span class="line"></span><br><span class="line"><span class="hljs-comment">// 방법3</span></span><br><span class="line"><span class="hljs-keyword">int</span>[] arr3 = <span class="hljs-keyword">new</span> <span class="hljs-keyword">int</span>[]&#123;<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>&#125;;</span><br></pre></td></tr></table></figure>
 
 <br>
 
-<h3 id="2-배열-한-번에-출력하는-방법"><a href="#2-배열-한-번에-출력하는-방법" class="headerlink" title="2. 배열 한 번에 출력하는 방법"></a>2. 배열 한 번에 출력하는 방법</h3><br>
+<h2 id="2-배열-한-번에-출력하는-방법"><a href="#2-배열-한-번에-출력하는-방법" class="headerlink" title="2. 배열 한 번에 출력하는 방법"></a>2. 배열 한 번에 출력하는 방법</h2><br>
 
 <figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-keyword">int</span>[] arr = &#123;<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>&#125;;</span><br><span class="line"></span><br><span class="line"><span class="hljs-comment">// 방법1</span></span><br><span class="line"><span class="hljs-keyword">for</span> (<span class="hljs-keyword">int</span> i=<span class="hljs-number">0</span>; i&lt;<span class="hljs-number">5</span>; i++) &#123;</span><br><span class="line">    System.out.println(arr[i]);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="hljs-comment">// 방법2</span></span><br><span class="line">System.out.println(Arrays.toString(arr));</span><br></pre></td></tr></table></figure>
 
 <br>
 
-<h3 id="3-배열-복사하는-방법"><a href="#3-배열-복사하는-방법" class="headerlink" title="3. 배열 복사하는 방법"></a>3. 배열 복사하는 방법</h3><br>
+<h2 id="3-배열-복사하는-방법"><a href="#3-배열-복사하는-방법" class="headerlink" title="3. 배열 복사하는 방법"></a>3. 배열 복사하는 방법</h2><br>
 
 <figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-keyword">int</span>[] arr = &#123;<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>&#125;;</span><br><span class="line"><span class="hljs-keyword">int</span>[] arrCopy = <span class="hljs-keyword">new</span> <span class="hljs-keyword">int</span>[<span class="hljs-number">5</span>];</span><br><span class="line"></span><br><span class="line">System.arraycopy(arr, <span class="hljs-number">0</span>, arrCopy, <span class="hljs-number">0</span>, <span class="hljs-number">5</span>);</span><br></pre></td></tr></table></figure>
 
@@ -209,7 +211,7 @@
 <p><code>System.arraycopy(원본 배열, 시작인덱스, 목적지 배열, 시작인덱스, 개수)</code>를 사용하면 됩니다.</p>
 <br>
 
-<h3 id="4-‘-’과-‘equals’의-차이점"><a href="#4-‘-’과-‘equals’의-차이점" class="headerlink" title="4. ‘==’과 ‘equals’의 차이점"></a>4. ‘==’과 ‘equals’의 차이점</h3><br>
+<h2 id="4-‘-’과-‘equals’의-차이점"><a href="#4-‘-’과-‘equals’의-차이점" class="headerlink" title="4. ‘==’과 ‘equals’의 차이점"></a>4. ‘==’과 ‘equals’의 차이점</h2><br>
 
 <figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-comment">// new 연산자로 객체를 생성하면 a와 b의 주소값이 달라집니다.</span></span><br><span class="line"></span><br><span class="line">String a = <span class="hljs-keyword">new</span> String(<span class="hljs-string">"123"</span>)</span><br><span class="line">String b = <span class="hljs-keyword">new</span> String(<span class="hljs-string">"123"</span>)</span><br></pre></td></tr></table></figure>
 
@@ -218,13 +220,13 @@
 <p><code>==</code>는 주소값만을 비교하지만, <code>equals</code>는 주소값과 문자열 내용을 비교합니다.</p>
 <br>
 
-<h3 id="5-Char에서-String으로-변환-String에서-Char로-변환"><a href="#5-Char에서-String으로-변환-String에서-Char로-변환" class="headerlink" title="5. Char에서 String으로 변환, String에서 Char로 변환"></a>5. Char에서 String으로 변환, String에서 Char로 변환</h3><br>
+<h2 id="5-Char에서-String으로-변환-String에서-Char로-변환"><a href="#5-Char에서-String으로-변환-String에서-Char로-변환" class="headerlink" title="5. Char에서 String으로 변환, String에서 Char로 변환"></a>5. Char에서 String으로 변환, String에서 Char로 변환</h2><br>
 
 <figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">String str = <span class="hljs-keyword">new</span> String(arr); <span class="hljs-comment">// char에서 string으로</span></span><br><span class="line"><span class="hljs-keyword">char</span>[] tmp = str.toCharArray(); <span class="hljs-comment">// string에서 char로</span></span><br></pre></td></tr></table></figure>
 
 <br>
 
-<h3 id="6-2차원-배열-다차원-배열-선언하는-방법"><a href="#6-2차원-배열-다차원-배열-선언하는-방법" class="headerlink" title="6. 2차원 배열(다차원 배열) 선언하는 방법"></a>6. 2차원 배열(다차원 배열) 선언하는 방법</h3><br>
+<h2 id="6-2차원-배열-다차원-배열-선언하는-방법"><a href="#6-2차원-배열-다차원-배열-선언하는-방법" class="headerlink" title="6. 2차원 배열(다차원 배열) 선언하는 방법"></a>6. 2차원 배열(다차원 배열) 선언하는 방법</h2><br>
 
 <figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-keyword">int</span>[][] arr = <span class="hljs-keyword">new</span> <span class="hljs-keyword">int</span>[][]&#123;&#123;<span class="hljs-number">1</span>,<span class="hljs-number">2</span>,<span class="hljs-number">3</span>&#125;, &#123;<span class="hljs-number">4</span>,<span class="hljs-number">5</span>,<span class="hljs-number">6</span>&#125;&#125;;</span><br></pre></td></tr></table></figure>
 
@@ -295,8 +297,8 @@
         
 <script>
     var disqus_config = function () {
-        this.page.url = 'http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-Sharp01-Array/';
-        this.page.identifier = 'Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-Sharp01-Array/';
+        this.page.url = 'http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-01-Array/';
+        this.page.identifier = 'Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-01-Array/';
     };
     (function() {
         var d = document, s = d.createElement('script');  
@@ -598,7 +600,7 @@
         
         <article class="media">
             
-            <a href="/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-Sharp01-Array/" class="media-left">
+            <a href="/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-01-Array/" class="media-left">
                 <p class="image is-64x64">
                     <img class="thumbnail" src="/images/thumbnail.svg" alt="Java | 헷갈리기 쉬운 Java 개념 #01 배열">
                 </p>
@@ -607,7 +609,7 @@
             <div class="media-content">
                 <div class="content">
                     <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2019-10-03T11:53:56.000Z">2019-10-03</time></div>
-                    <a href="/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-Sharp01-Array/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Java | 헷갈리기 쉬운 Java 개념 #01 배열</a>
+                    <a href="/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-01-Array/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Java | 헷갈리기 쉬운 Java 개념 #01 배열</a>
                     <p class="is-size-7 is-uppercase">
                         <a class="has-link-grey -link" href="/categories/Language/">Language</a> / <a class="has-link-grey -link" href="/categories/Language/Java/">Java</a>
                     </p>
@@ -1076,7 +1078,7 @@
         
         <article class="media">
             
-            <a href="/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-Sharp01-Array/" class="media-left">
+            <a href="/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-01-Array/" class="media-left">
                 <p class="image is-64x64">
                     <img class="thumbnail" src="/images/thumbnail.svg" alt="Java | 헷갈리기 쉬운 Java 개념 #01 배열">
                 </p>
@@ -1085,7 +1087,7 @@
             <div class="media-content">
                 <div class="content">
                     <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2019-10-03T11:53:56.000Z">2019-10-03</time></div>
-                    <a href="/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-Sharp01-Array/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Java | 헷갈리기 쉬운 Java 개념 #01 배열</a>
+                    <a href="/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-01-Array/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Java | 헷갈리기 쉬운 Java 개념 #01 배열</a>
                     <p class="is-size-7 is-uppercase">
                         <a class="has-link-grey -link" href="/categories/Language/">Language</a> / <a class="has-link-grey -link" href="/categories/Language/Java/">Java</a>
                     </p>
