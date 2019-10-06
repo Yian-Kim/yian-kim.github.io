@@ -9,21 +9,21 @@
 
     <url>
         <loc>http://chanmi-kim.github.io/categories/Language/Java/</loc>
-        <lastmod>2019-10-05T14:27:34.383Z</lastmod>
+        <lastmod>2019-10-06T10:19:48.542Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://chanmi-kim.github.io/categories/Language/</loc>
-        <lastmod>2019-10-05T14:27:34.383Z</lastmod>
+        <lastmod>2019-10-06T10:19:48.542Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://chanmi-kim.github.io/categories/Issues/</loc>
-        <lastmod>2019-10-05T14:23:31.669Z</lastmod>
+        <lastmod>2019-10-06T10:17:53.137Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -57,6 +57,13 @@
     </url>
 
     <url>
+        <loc>http://chanmi-kim.github.io/categories/Computer-Science/Operating-System/</loc>
+        <lastmod>2019-09-01T11:28:27.281Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/categories/Devlog/Hexo/</loc>
         <lastmod>2019-09-01T11:28:27.281Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -65,13 +72,6 @@
 
     <url>
         <loc>http://chanmi-kim.github.io/categories/Devlog/</loc>
-        <lastmod>2019-09-01T11:28:27.281Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/categories/Computer-Science/Operating-System/</loc>
         <lastmod>2019-09-01T11:28:27.281Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
