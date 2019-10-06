@@ -123,11 +123,11 @@
   </entry>
   
   <entry>
-    <title>후기 | NHN 2019 하반기 기술부문 신입사원 공개채용 설명회</title>
+    <title>NHN 2019 하반기 기술부문 신입사원 공개채용 설명회 후기</title>
     <link href="http://chanmi-kim.github.io/Review/2019/09/16/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/"/>
     <id>http://chanmi-kim.github.io/Review/2019/09/16/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/</id>
     <published>2019-09-16T14:12:54.000Z</published>
-    <updated>2019-09-25T12:48:55.806Z</updated>
+    <updated>2019-10-06T10:31:25.471Z</updated>
     
     <summary type="html">
     
@@ -333,13 +333,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
+      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
     
   </entry>
   
@@ -399,13 +399,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
-      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
     
   </entry>
   

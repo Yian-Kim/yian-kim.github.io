@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>http://chanmi-kim.github.io/Review/2019/09/16/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/</loc>
+        <lastmod>2019-10-06T10:31:25.471Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-01-Array/</loc>
         <lastmod>2019-10-06T10:19:48.542Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -34,14 +42,6 @@
     <url>
         <loc>http://chanmi-kim.github.io/Issues/2019/09/29/Issues-Java-ArrayIndexOutOfBoundsException/</loc>
         <lastmod>2019-10-06T10:13:52.763Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/Review/2019/09/16/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/</loc>
-        <lastmod>2019-09-25T12:48:55.806Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
