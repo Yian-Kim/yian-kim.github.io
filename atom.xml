@@ -6,7 +6,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://chanmi-kim.github.io/"/>
-  <updated>2019-10-06T10:47:08.896Z</updated>
+  <updated>2019-10-06T14:59:27.648Z</updated>
   <id>http://chanmi-kim.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>[이슈등록] Git &amp; Hexo - LF will be replaced by CRLF</title>
-    <link href="http://chanmi-kim.github.io/Issues/2019/10/06/Issues-Git-LF-will-be-replaced-by-CRLF/"/>
-    <id>http://chanmi-kim.github.io/Issues/2019/10/06/Issues-Git-LF-will-be-replaced-by-CRLF/</id>
+    <link href="http://chanmi-kim.github.io/Issues/2019/10/06/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/"/>
+    <id>http://chanmi-kim.github.io/Issues/2019/10/06/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/</id>
     <published>2019-10-06T10:36:45.000Z</published>
-    <updated>2019-10-06T10:47:08.896Z</updated>
+    <updated>2019-10-06T14:59:27.648Z</updated>
     
     <summary type="html">
     
@@ -45,11 +45,11 @@
   </entry>
   
   <entry>
-    <title>[이슈해결] Git Expo CLI Error</title>
-    <link href="http://chanmi-kim.github.io/Issues/2019/10/06/Issues-Git-expo-init-error/"/>
-    <id>http://chanmi-kim.github.io/Issues/2019/10/06/Issues-Git-expo-init-error/</id>
+    <title>[이슈해결] Git &amp; Expo-CLI - Input is required, but Expo CLI is in non-interactive mode.</title>
+    <link href="http://chanmi-kim.github.io/Issues/2019/10/06/Issues-Git-Expo-CLI-is-in-non-interactive-mode/"/>
+    <id>http://chanmi-kim.github.io/Issues/2019/10/06/Issues-Git-Expo-CLI-is-in-non-interactive-mode/</id>
     <published>2019-10-06T09:02:34.000Z</published>
-    <updated>2019-10-06T10:41:02.649Z</updated>
+    <updated>2019-10-06T15:09:17.547Z</updated>
     
     <summary type="html">
     
@@ -66,16 +66,18 @@
     
       <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
     
-      <category term="Expo" scheme="http://chanmi-kim.github.io/tags/Expo/"/>
+      <category term="Expo-CLI" scheme="http://chanmi-kim.github.io/tags/Expo-CLI/"/>
+    
+      <category term="Expo CLI is in non-interactive mode" scheme="http://chanmi-kim.github.io/tags/Expo-CLI-is-in-non-interactive-mode/"/>
     
   </entry>
   
   <entry>
     <title>Java | 헷갈리기 쉬운 Java 개념 #01 배열</title>
-    <link href="http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-01-Array/"/>
-    <id>http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-01-Array/</id>
+    <link href="http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-01-Arrays/"/>
+    <id>http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-01-Arrays/</id>
     <published>2019-10-03T11:53:56.000Z</published>
-    <updated>2019-10-06T10:19:48.542Z</updated>
+    <updated>2019-10-06T14:51:42.694Z</updated>
     
     <summary type="html">
     
@@ -90,18 +92,18 @@
     
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
-      <category term="Language" scheme="http://chanmi-kim.github.io/tags/Language/"/>
+      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
     
-      <category term="Array" scheme="http://chanmi-kim.github.io/tags/Array/"/>
+      <category term="Language" scheme="http://chanmi-kim.github.io/tags/Language/"/>
     
   </entry>
   
   <entry>
-    <title>[이슈해결] Java ArrayIndexOutOfBoundsException</title>
-    <link href="http://chanmi-kim.github.io/Issues/2019/09/29/Issues-Java-ArrayIndexOutOfBoundsException/"/>
-    <id>http://chanmi-kim.github.io/Issues/2019/09/29/Issues-Java-ArrayIndexOutOfBoundsException/</id>
+    <title>[이슈해결] Java - java.lang.ArrayIndexOutOfBoundsException</title>
+    <link href="http://chanmi-kim.github.io/Issues/2019/09/29/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/"/>
+    <id>http://chanmi-kim.github.io/Issues/2019/09/29/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/</id>
     <published>2019-09-29T14:29:44.000Z</published>
-    <updated>2019-10-06T10:13:52.763Z</updated>
+    <updated>2019-10-06T15:09:59.222Z</updated>
     
     <summary type="html">
     
@@ -118,7 +120,7 @@
     
       <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
     
-      <category term="ArrayIndexOutOfBoundsException" scheme="http://chanmi-kim.github.io/tags/ArrayIndexOutOfBoundsException/"/>
+      <category term="java.lang.ArrayIndexOutOfBoundsException" scheme="http://chanmi-kim.github.io/tags/java-lang-ArrayIndexOutOfBoundsException/"/>
     
   </entry>
   
@@ -361,13 +363,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
-      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
     
   </entry>
   
@@ -427,13 +429,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
+      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
     
   </entry>
   
