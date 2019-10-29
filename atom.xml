@@ -62,9 +62,9 @@
     
       <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
     
-      <category term="Git Bash" scheme="http://chanmi-kim.github.io/tags/Git-Bash/"/>
-    
       <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
+    
+      <category term="Git Bash" scheme="http://chanmi-kim.github.io/tags/Git-Bash/"/>
     
       <category term="Expo-CLI" scheme="http://chanmi-kim.github.io/tags/Expo-CLI/"/>
     
