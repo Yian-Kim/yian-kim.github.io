@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Chanmi&#39;s Devlog</title>
   
-  <subtitle>Devlog using hexo</subtitle>
+  <subtitle>찬미의 개발블로그</subtitle>
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://chanmi-kim.github.io/"/>
@@ -66,9 +66,9 @@
     
       <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
     
-      <category term="Git" scheme="http://chanmi-kim.github.io/tags/Git/"/>
-    
       <category term="Hexo" scheme="http://chanmi-kim.github.io/tags/Hexo/"/>
+    
+      <category term="Git" scheme="http://chanmi-kim.github.io/tags/Git/"/>
     
       <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
     
@@ -108,10 +108,10 @@
   
   <entry>
     <title>Java | 헷갈리기 쉬운 Java 개념 #01 배열</title>
-    <link href="http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-01-Arrays/"/>
-    <id>http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-01-Arrays/</id>
+    <link href="http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-Arrays/"/>
+    <id>http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-Arrays/</id>
     <published>2019-10-03T11:53:56.000Z</published>
-    <updated>2019-10-06T14:51:42.694Z</updated>
+    <updated>2019-11-07T13:18:51.333Z</updated>
     
     <summary type="html">
     
