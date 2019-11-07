@@ -130,10 +130,10 @@
   
   <entry>
     <title>[이슈해결] Java - java.lang.ArrayIndexOutOfBoundsException</title>
-    <link href="http://chanmi-kim.github.io/Issues/2019/09/29/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/"/>
-    <id>http://chanmi-kim.github.io/Issues/2019/09/29/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/</id>
+    <link href="http://chanmi-kim.github.io/Devlog/Issues/2019/09/29/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/"/>
+    <id>http://chanmi-kim.github.io/Devlog/Issues/2019/09/29/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/</id>
     <published>2019-09-29T14:29:44.000Z</published>
-    <updated>2019-10-06T15:09:59.222Z</updated>
+    <updated>2019-11-07T12:52:56.557Z</updated>
     
     <summary type="html">
     
@@ -141,12 +141,14 @@
     
     </summary>
     
-      <category term="Issues" scheme="http://chanmi-kim.github.io/categories/Issues/"/>
+      <category term="Devlog" scheme="http://chanmi-kim.github.io/categories/Devlog/"/>
     
+      <category term="Issues" scheme="http://chanmi-kim.github.io/categories/Devlog/Issues/"/>
     
-      <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
     
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
+    
+      <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
     
       <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
     
@@ -170,9 +172,9 @@
       <category term="Issues" scheme="http://chanmi-kim.github.io/categories/Issues/"/>
     
     
-      <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
+    
+      <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
     
       <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
     
@@ -184,10 +186,10 @@
   
   <entry>
     <title>NHN 2019 하반기 기술부문 신입사원 공개채용 설명회 후기</title>
-    <link href="http://chanmi-kim.github.io/Review/2019/09/16/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/"/>
-    <id>http://chanmi-kim.github.io/Review/2019/09/16/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/</id>
+    <link href="http://chanmi-kim.github.io/Devlog/Review/2019/09/16/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/"/>
+    <id>http://chanmi-kim.github.io/Devlog/Review/2019/09/16/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/</id>
     <published>2019-09-16T14:12:54.000Z</published>
-    <updated>2019-10-06T10:31:25.471Z</updated>
+    <updated>2019-11-07T12:52:22.690Z</updated>
     
     <summary type="html">
     
@@ -196,7 +198,9 @@
     
     </summary>
     
-      <category term="Review" scheme="http://chanmi-kim.github.io/categories/Review/"/>
+      <category term="Devlog" scheme="http://chanmi-kim.github.io/categories/Devlog/"/>
+    
+      <category term="Review" scheme="http://chanmi-kim.github.io/categories/Devlog/Review/"/>
     
     
       <category term="Review" scheme="http://chanmi-kim.github.io/tags/Review/"/>
@@ -393,13 +397,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
-      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
     
   </entry>
   
@@ -492,13 +496,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
+      <category term="Counting Sort" scheme="http://chanmi-kim.github.io/tags/Counting-Sort/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Counting Sort" scheme="http://chanmi-kim.github.io/tags/Counting-Sort/"/>
     
   </entry>
   
