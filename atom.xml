@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Chanmi&#39;s Devlog</title>
+  <title>찬미의 개발블로그</title>
   
-  <subtitle>찬미의 개발블로그</subtitle>
+  <subtitle>Chanmi&#39;s Devlog</subtitle>
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://chanmi-kim.github.io/"/>
@@ -126,9 +126,9 @@
     
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
-      <category term="Language" scheme="http://chanmi-kim.github.io/tags/Language/"/>
-    
       <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
+    
+      <category term="Language" scheme="http://chanmi-kim.github.io/tags/Language/"/>
     
   </entry>
   
@@ -184,9 +184,9 @@
     
       <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
     
-      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
-    
       <category term="Collections" scheme="http://chanmi-kim.github.io/tags/Collections/"/>
+    
+      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
     
   </entry>
   
