@@ -3,6 +3,41 @@
 
 
     <url>
+        <loc>http://chanmi-kim.github.io/tags/%EC%9D%BC%EC%9D%BC%EC%BB%A4%EB%B0%8B/</loc>
+        <lastmod>2019-11-07T22:48:08.206Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Contribution/</loc>
+        <lastmod>2019-11-07T22:48:08.206Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/%EC%9E%94%EB%94%94/</loc>
+        <lastmod>2019-11-07T22:48:08.206Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Github/</loc>
+        <lastmod>2019-11-07T22:48:08.206Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Essay/</loc>
+        <lastmod>2019-11-07T22:48:08.206Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/tags/Language/</loc>
         <lastmod>2019-11-07T13:18:51.333Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -131,41 +166,6 @@
     <url>
         <loc>http://chanmi-kim.github.io/tags/Review/</loc>
         <lastmod>2019-11-07T12:52:22.690Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/%EC%9D%BC%EC%9D%BC%EC%BB%A4%EB%B0%8B/</loc>
-        <lastmod>2019-11-07T12:43:30.423Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Contribution/</loc>
-        <lastmod>2019-11-07T12:43:30.423Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/%EC%9E%94%EB%94%94/</loc>
-        <lastmod>2019-11-07T12:43:30.423Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Github/</loc>
-        <lastmod>2019-11-07T12:43:30.423Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Essay/</loc>
-        <lastmod>2019-11-07T12:43:30.423Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
