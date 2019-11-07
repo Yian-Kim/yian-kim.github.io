@@ -6,7 +6,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://chanmi-kim.github.io/"/>
-  <updated>2019-10-06T14:59:27.648Z</updated>
+  <updated>2019-11-07T10:50:13.769Z</updated>
   <id>http://chanmi-kim.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>깃허브 잔디심기 - 6개월간 회고록</title>
+    <link href="http://chanmi-kim.github.io/Devlog/Essay/2019/11/06/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/"/>
+    <id>http://chanmi-kim.github.io/Devlog/Essay/2019/11/06/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/</id>
+    <published>2019-11-06T14:54:50.000Z</published>
+    <updated>2019-11-07T10:50:13.769Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;오늘은 처음 커밋한 날로부터 255일 되는 날이며, 1일 1커밋을 실천하기로 마음먹은 날로부터 247일째 되는 날이다. 대략 6개월 정도 되었으니 깃허브 잔디심기에 대한 회고록을 적어볼까 한다. &lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Devlog" scheme="http://chanmi-kim.github.io/categories/Devlog/"/>
+    
+      <category term="Essay" scheme="http://chanmi-kim.github.io/categories/Devlog/Essay/"/>
+    
+    
+      <category term="Essay" scheme="http://chanmi-kim.github.io/tags/Essay/"/>
+    
+      <category term="Github" scheme="http://chanmi-kim.github.io/tags/Github/"/>
+    
+      <category term="잔디" scheme="http://chanmi-kim.github.io/tags/%EC%9E%94%EB%94%94/"/>
+    
+      <category term="Contribution" scheme="http://chanmi-kim.github.io/tags/Contribution/"/>
+    
+      <category term="1일1커밋" scheme="http://chanmi-kim.github.io/tags/1%EC%9D%BC1%EC%BB%A4%EB%B0%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>[이슈등록] Git &amp; Hexo - LF will be replaced by CRLF</title>
@@ -363,13 +393,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
-      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
     
   </entry>
   
@@ -429,13 +459,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
+      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
     
   </entry>
   
@@ -601,39 +631,6 @@
       <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
     
       <category term="Tree" scheme="http://chanmi-kim.github.io/tags/Tree/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>자료구조 | 해시 (Hash)</title>
-    <link href="http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/25/Data-Structure-Hash/"/>
-    <id>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/25/Data-Structure-Hash/</id>
-    <published>2019-07-25T06:38:57.000Z</published>
-    <updated>2019-09-01T11:28:27.278Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;Data-Structure-Hash-해시&quot;&gt;&lt;a href=&quot;#Data-Structure-Hash-해시&quot; class=&quot;headerlink&quot; title=&quot;Data Structure : Hash(해시)&quot;&gt;&lt;/a&gt;Data Structure : Hash(해시)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;해시 테이블(Hash table)은 키를 값에 매핑할 수 있는 구조인, 연관 배열 추가에 사용되는 자료 구조입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="Computer Science" scheme="http://chanmi-kim.github.io/categories/Computer-Science/"/>
-    
-      <category term="Data Structure" scheme="http://chanmi-kim.github.io/categories/Computer-Science/Data-Structure/"/>
-    
-    
-      <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
-    
-      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
-    
-      <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
-    
-      <category term="Hash" scheme="http://chanmi-kim.github.io/tags/Hash/"/>
     
   </entry>
   
