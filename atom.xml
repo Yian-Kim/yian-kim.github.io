@@ -126,9 +126,9 @@
     
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
-      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
-    
       <category term="Language" scheme="http://chanmi-kim.github.io/tags/Language/"/>
+    
+      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
     
   </entry>
   
@@ -182,11 +182,11 @@
     
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
+      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
+    
       <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
     
       <category term="Collections" scheme="http://chanmi-kim.github.io/tags/Collections/"/>
-    
-      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
     
   </entry>
   
@@ -403,13 +403,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
-      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
     
   </entry>
   
@@ -502,13 +502,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
+      <category term="Counting Sort" scheme="http://chanmi-kim.github.io/tags/Counting-Sort/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Counting Sort" scheme="http://chanmi-kim.github.io/tags/Counting-Sort/"/>
     
   </entry>
   

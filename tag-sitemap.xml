@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>http://chanmi-kim.github.io/tags/BFS-Searching/</loc>
+        <lastmod>2019-11-10T09:27:51.397Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/tags/C/</loc>
         <lastmod>2019-11-10T09:27:51.397Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -18,13 +25,6 @@
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/Java/</loc>
-        <lastmod>2019-11-10T09:27:51.397Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/BFS-Searching/</loc>
         <lastmod>2019-11-10T09:27:51.397Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -185,14 +185,14 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Language/</loc>
+        <loc>http://chanmi-kim.github.io/tags/Arrays/</loc>
         <lastmod>2019-11-07T13:18:51.333Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Arrays/</loc>
+        <loc>http://chanmi-kim.github.io/tags/Language/</loc>
         <lastmod>2019-11-07T13:18:51.333Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
