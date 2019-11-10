@@ -8,15 +8,36 @@
     </url>
 
     <url>
+        <loc>http://chanmi-kim.github.io/categories/Computer-Science/Algorithm/</loc>
+        <lastmod>2019-11-10T09:18:40.294Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/categories/Computer-Science/</loc>
+        <lastmod>2019-11-10T09:18:40.294Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/categories/Computer-Science/Data-Structure/</loc>
+        <lastmod>2019-11-10T09:18:29.187Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/categories/Devlog/Essay/</loc>
-        <lastmod>2019-11-10T08:08:07.234Z</lastmod>
+        <lastmod>2019-11-10T09:18:23.613Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://chanmi-kim.github.io/categories/Devlog/</loc>
-        <lastmod>2019-11-10T08:08:07.234Z</lastmod>
+        <lastmod>2019-11-10T09:18:23.613Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -45,27 +66,6 @@
     <url>
         <loc>http://chanmi-kim.github.io/categories/Devlog/Review/</loc>
         <lastmod>2019-11-07T12:52:22.690Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/categories/Computer-Science/Algorithm/</loc>
-        <lastmod>2019-09-05T12:12:40.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/categories/Computer-Science/</loc>
-        <lastmod>2019-09-05T12:12:40.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/categories/Computer-Science/Data-Structure/</loc>
-        <lastmod>2019-09-04T08:54:00.051Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
