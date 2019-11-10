@@ -3,43 +3,50 @@
 
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/LF-will-be-replaced-by-CRLF/</loc>
-        <lastmod>2019-11-10T11:27:21.164Z</lastmod>
+        <loc>http://chanmi-kim.github.io/tags/Operating-System/</loc>
+        <lastmod>2019-11-10T11:30:01.378Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Git/</loc>
-        <lastmod>2019-11-10T11:27:21.164Z</lastmod>
+        <loc>http://chanmi-kim.github.io/tags/Computer-Science/</loc>
+        <lastmod>2019-11-10T11:30:01.378Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/LF-will-be-replaced-by-CRLF/</loc>
+        <lastmod>2019-11-10T11:28:57.681Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/</loc>
-        <lastmod>2019-11-10T11:27:21.164Z</lastmod>
+        <lastmod>2019-11-10T11:28:57.681Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Git/</loc>
+        <lastmod>2019-11-10T11:28:57.681Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/Hexo/</loc>
-        <lastmod>2019-11-10T11:27:21.164Z</lastmod>
+        <lastmod>2019-11-10T11:28:57.681Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/Issues/</loc>
-        <lastmod>2019-11-10T11:27:21.164Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/BFS-Searching/</loc>
-        <lastmod>2019-11-10T09:27:51.397Z</lastmod>
+        <lastmod>2019-11-10T11:28:57.681Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -66,14 +73,14 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Algorithm/</loc>
+        <loc>http://chanmi-kim.github.io/tags/BFS-Searching/</loc>
         <lastmod>2019-11-10T09:27:51.397Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Computer-Science/</loc>
+        <loc>http://chanmi-kim.github.io/tags/Algorithm/</loc>
         <lastmod>2019-11-10T09:27:51.397Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -320,13 +327,6 @@
     <url>
         <loc>http://chanmi-kim.github.io/tags/Priority-Queue/</loc>
         <lastmod>2019-09-04T08:53:47.362Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Operating-System/</loc>
-        <lastmod>2019-09-01T11:28:27.281Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -8,28 +8,35 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/categories/Devlog/Issues/</loc>
-        <lastmod>2019-11-10T11:27:21.164Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/categories/Devlog/</loc>
-        <lastmod>2019-11-10T11:27:21.164Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/categories/Computer-Science/Algorithm/</loc>
-        <lastmod>2019-11-10T09:27:51.397Z</lastmod>
+        <loc>http://chanmi-kim.github.io/categories/Computer-Science/Operating-System/</loc>
+        <lastmod>2019-11-10T11:30:01.378Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://chanmi-kim.github.io/categories/Computer-Science/</loc>
+        <lastmod>2019-11-10T11:30:01.378Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/categories/Devlog/Issues/</loc>
+        <lastmod>2019-11-10T11:28:57.681Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/categories/Devlog/</loc>
+        <lastmod>2019-11-10T11:28:57.681Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/categories/Computer-Science/Algorithm/</loc>
         <lastmod>2019-11-10T09:27:51.397Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -66,13 +73,6 @@
     <url>
         <loc>http://chanmi-kim.github.io/categories/Devlog/Review/</loc>
         <lastmod>2019-11-07T12:52:22.690Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/categories/Computer-Science/Operating-System/</loc>
-        <lastmod>2019-09-01T11:28:27.281Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -8,8 +8,16 @@
     </url>
 
     <url>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Operating-System/2019/08/06/Operating-System-introduce/</loc>
+        <lastmod>2019-11-10T11:30:01.378Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/Devlog/Issues/2019/10/06/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/</loc>
-        <lastmod>2019-11-10T11:27:21.164Z</lastmod>
+        <lastmod>2019-11-10T11:28:57.681Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -201,14 +209,6 @@
 
     <url>
         <loc>http://chanmi-kim.github.io/Devlog/Hexo/2019/06/03/hello-world/</loc>
-        <lastmod>2019-09-01T11:28:27.281Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/Computer-Science/Operating-System/2019/08/06/Operating-System-01-introduce/</loc>
         <lastmod>2019-09-01T11:28:27.281Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
