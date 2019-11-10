@@ -3,6 +3,41 @@
 
 
     <url>
+        <loc>http://chanmi-kim.github.io/tags/LF-will-be-replaced-by-CRLF/</loc>
+        <lastmod>2019-11-10T11:27:21.164Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Git/</loc>
+        <lastmod>2019-11-10T11:27:21.164Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/</loc>
+        <lastmod>2019-11-10T11:27:21.164Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Hexo/</loc>
+        <lastmod>2019-11-10T11:27:21.164Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Issues/</loc>
+        <lastmod>2019-11-10T11:27:21.164Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/tags/BFS-Searching/</loc>
         <lastmod>2019-11-10T09:27:51.397Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -185,14 +220,14 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Arrays/</loc>
+        <loc>http://chanmi-kim.github.io/tags/Language/</loc>
         <lastmod>2019-11-07T13:18:51.333Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Language/</loc>
+        <loc>http://chanmi-kim.github.io/tags/Arrays/</loc>
         <lastmod>2019-11-07T13:18:51.333Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -222,41 +257,6 @@
     <url>
         <loc>http://chanmi-kim.github.io/tags/Git-Bash/</loc>
         <lastmod>2019-11-07T13:01:14.803Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Issues/</loc>
-        <lastmod>2019-11-07T13:01:14.803Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/LF-will-be-replaced-by-CRLF/</loc>
-        <lastmod>2019-11-07T13:01:08.437Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/</loc>
-        <lastmod>2019-11-07T13:01:08.437Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Git/</loc>
-        <lastmod>2019-11-07T13:01:08.437Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Hexo/</loc>
-        <lastmod>2019-11-07T13:01:08.437Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>http://chanmi-kim.github.io/Devlog/Issues/2019/10/06/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/</loc>
+        <lastmod>2019-11-10T11:27:21.164Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm/2019/08/02/Algorithm-BFS-Searching/</loc>
         <lastmod>2019-11-10T09:27:51.397Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -138,14 +146,6 @@
     <url>
         <loc>http://chanmi-kim.github.io/Devlog/Issues/2019/10/06/Issues-Git-Expo-CLI-is-in-non-interactive-mode/</loc>
         <lastmod>2019-11-07T13:01:14.803Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/Devlog/Issues/2019/10/06/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/</loc>
-        <lastmod>2019-11-07T13:01:08.437Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
