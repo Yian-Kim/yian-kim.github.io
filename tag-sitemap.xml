@@ -3,6 +3,41 @@
 
 
     <url>
+        <loc>http://chanmi-kim.github.io/tags/%EA%B0%9C%EB%B0%9C%EB%B8%94%EB%A1%9C%EA%B7%B8/</loc>
+        <lastmod>2019-11-10T16:10:29.461Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/%EC%B0%AC%EB%AF%B8%EC%9D%98-%EA%B0%9C%EB%B0%9C%EB%B8%94%EB%A1%9C%EA%B7%B8/</loc>
+        <lastmod>2019-11-10T16:10:29.461Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Jekyll/</loc>
+        <lastmod>2019-11-10T16:10:29.461Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Devlog/</loc>
+        <lastmod>2019-11-10T16:10:29.461Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Hexo/</loc>
+        <lastmod>2019-11-10T16:10:29.461Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/tags/Operating-System/</loc>
         <lastmod>2019-11-10T11:30:01.378Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -32,13 +67,6 @@
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/Git/</loc>
-        <lastmod>2019-11-10T11:28:57.681Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Hexo/</loc>
         <lastmod>2019-11-10T11:28:57.681Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
