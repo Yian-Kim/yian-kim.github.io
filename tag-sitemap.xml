@@ -3,6 +3,48 @@
 
 
     <url>
+        <loc>http://chanmi-kim.github.io/tags/Tree/</loc>
+        <lastmod>2019-11-12T11:38:52.545Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Data-Structure/</loc>
+        <lastmod>2019-11-12T11:38:52.545Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/C/</loc>
+        <lastmod>2019-11-12T11:38:52.545Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/C/</loc>
+        <lastmod>2019-11-12T11:38:52.545Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Java/</loc>
+        <lastmod>2019-11-12T11:38:52.545Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Computer-Science/</loc>
+        <lastmod>2019-11-12T11:38:52.545Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/tags/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/</loc>
         <lastmod>2019-11-11T10:21:15.930Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -52,13 +94,6 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Computer-Science/</loc>
-        <lastmod>2019-11-10T11:30:01.378Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://chanmi-kim.github.io/tags/LF-will-be-replaced-by-CRLF/</loc>
         <lastmod>2019-11-10T11:28:57.681Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,27 +117,6 @@
     <url>
         <loc>http://chanmi-kim.github.io/tags/Issues/</loc>
         <lastmod>2019-11-10T11:28:57.681Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/C/</loc>
-        <lastmod>2019-11-10T09:27:51.397Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/C/</loc>
-        <lastmod>2019-11-10T09:27:51.397Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Java/</loc>
-        <lastmod>2019-11-10T09:27:51.397Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -199,13 +213,6 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Data-Structure/</loc>
-        <lastmod>2019-11-10T09:18:29.187Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://chanmi-kim.github.io/tags/Hash/</loc>
         <lastmod>2019-11-10T09:18:27.743Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -250,13 +257,6 @@
     <url>
         <loc>http://chanmi-kim.github.io/tags/Essay/</loc>
         <lastmod>2019-11-10T09:18:23.613Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Tree/</loc>
-        <lastmod>2019-11-10T09:18:19.378Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
