@@ -90,9 +90,9 @@
       <category term="Issues" scheme="http://chanmi-kim.github.io/categories/Devlog/Issues/"/>
     
     
-      <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
-    
       <category term="Hexo" scheme="http://chanmi-kim.github.io/tags/Hexo/"/>
+    
+      <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
     
       <category term="Git" scheme="http://chanmi-kim.github.io/tags/Git/"/>
     
@@ -462,13 +462,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
+      <category term="DFS Searching" scheme="http://chanmi-kim.github.io/tags/DFS-Searching/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="DFS Searching" scheme="http://chanmi-kim.github.io/tags/DFS-Searching/"/>
     
   </entry>
   
@@ -495,13 +495,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
-      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
     
   </entry>
   
