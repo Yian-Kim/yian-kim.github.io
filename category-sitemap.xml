@@ -22,6 +22,20 @@
     </url>
 
     <url>
+        <loc>http://chanmi-kim.github.io/categories/Language/Java/</loc>
+        <lastmod>2019-12-07T09:42:06.715Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/categories/Language/</loc>
+        <lastmod>2019-12-07T09:42:06.715Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/categories/Computer-Science/Data-Structure/</loc>
         <lastmod>2019-11-12T11:38:52.545Z</lastmod>
         <changefreq>weekly</changefreq>

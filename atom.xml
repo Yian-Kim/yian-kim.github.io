@@ -122,13 +122,39 @@
     
       <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
     
-      <category term="Git Bash" scheme="http://chanmi-kim.github.io/tags/Git-Bash/"/>
-    
       <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
+    
+      <category term="Git Bash" scheme="http://chanmi-kim.github.io/tags/Git-Bash/"/>
     
       <category term="Expo-CLI" scheme="http://chanmi-kim.github.io/tags/Expo-CLI/"/>
     
       <category term="Expo CLI is in non-interactive mode" scheme="http://chanmi-kim.github.io/tags/Expo-CLI-is-in-non-interactive-mode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java | 헷갈리기 쉬운 Java 개념 #01 배열</title>
+    <link href="http://chanmi-kim.github.io/Language/Java/2019/10/03/Java/Java-Easily-confused-Java-concepts-Arrays/"/>
+    <id>http://chanmi-kim.github.io/Language/Java/2019/10/03/Java/Java-Easily-confused-Java-concepts-Arrays/</id>
+    <published>2019-10-03T11:53:56.000Z</published>
+    <updated>2019-12-07T09:42:06.715Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;헷갈리기 쉬운 Java 개념 중 배열에 대해 다루어, 간략히 정리했습니다.&lt;br&gt;Java 언어에 대한 기본적인 지식이 있어야 이해할 수 있는 포스트입니다.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Language" scheme="http://chanmi-kim.github.io/categories/Language/"/>
+    
+      <category term="Java" scheme="http://chanmi-kim.github.io/categories/Language/Java/"/>
+    
+    
+      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
+    
+      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
+    
+      <category term="Language" scheme="http://chanmi-kim.github.io/tags/Language/"/>
     
   </entry>
   
@@ -608,39 +634,6 @@
       <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
     
       <category term="Graph" scheme="http://chanmi-kim.github.io/tags/Graph/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>자료구조 | 트리 (Tree)</title>
-    <link href="http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/26/Data-Structure-Tree/"/>
-    <id>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/26/Data-Structure-Tree/</id>
-    <published>2019-07-26T07:12:52.000Z</published>
-    <updated>2019-11-12T11:38:52.545Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;Data-Structure-Tree-트리&quot;&gt;&lt;a href=&quot;#Data-Structure-Tree-트리&quot; class=&quot;headerlink&quot; title=&quot;Data Structure : Tree(트리)&quot;&gt;&lt;/a&gt;Data Structure : Tree(트리)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;트리 구조란 그래프의 일종으로, 여러 노드가 한 노드를 가리킬 수 없는 구조입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="Computer Science" scheme="http://chanmi-kim.github.io/categories/Computer-Science/"/>
-    
-      <category term="Data Structure" scheme="http://chanmi-kim.github.io/categories/Computer-Science/Data-Structure/"/>
-    
-    
-      <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
-    
-      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
-    
-      <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
-    
-      <category term="Tree" scheme="http://chanmi-kim.github.io/tags/Tree/"/>
     
   </entry>
   

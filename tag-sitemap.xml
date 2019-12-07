@@ -31,6 +31,20 @@
     </url>
 
     <url>
+        <loc>http://chanmi-kim.github.io/tags/Language/</loc>
+        <lastmod>2019-12-07T09:42:06.715Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Arrays/</loc>
+        <lastmod>2019-12-07T09:42:06.715Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/tags/Tree/</loc>
         <lastmod>2019-11-12T11:38:52.545Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -292,13 +306,6 @@
     <url>
         <loc>http://chanmi-kim.github.io/tags/Git-Bash/</loc>
         <lastmod>2019-11-07T13:01:14.803Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Arrays/</loc>
-        <lastmod>2019-11-07T13:00:56.072Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
