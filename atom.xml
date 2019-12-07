@@ -137,7 +137,7 @@
     <link href="http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-Arrays/"/>
     <id>http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-Arrays/</id>
     <published>2019-10-03T11:53:56.000Z</published>
-    <updated>2019-11-07T13:18:51.333Z</updated>
+    <updated>2019-12-07T09:36:05.894Z</updated>
     
     <summary type="html">
     
@@ -152,37 +152,9 @@
     
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
-      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
-    
       <category term="Language" scheme="http://chanmi-kim.github.io/tags/Language/"/>
     
-  </entry>
-  
-  <entry>
-    <title>[이슈해결] Java - java.lang.ArrayIndexOutOfBoundsException</title>
-    <link href="http://chanmi-kim.github.io/Devlog/Issues/2019/09/29/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/"/>
-    <id>http://chanmi-kim.github.io/Devlog/Issues/2019/09/29/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/</id>
-    <published>2019-09-29T14:29:44.000Z</published>
-    <updated>2019-11-07T12:52:56.557Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Error Message: &lt;code&gt;java.lang.ArrayIndexOutOfBoundsException&lt;/code&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Devlog" scheme="http://chanmi-kim.github.io/categories/Devlog/"/>
-    
-      <category term="Issues" scheme="http://chanmi-kim.github.io/categories/Devlog/Issues/"/>
-    
-    
-      <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
-    
-      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
-    
-      <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
-    
-      <category term="java.lang.ArrayIndexOutOfBoundsException" scheme="http://chanmi-kim.github.io/tags/java-lang-ArrayIndexOutOfBoundsException/"/>
+      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
     
   </entry>
   
@@ -208,11 +180,11 @@
     
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
+      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
+    
       <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
     
       <category term="Collections" scheme="http://chanmi-kim.github.io/tags/Collections/"/>
-    
-      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
     
   </entry>
   
@@ -634,6 +606,39 @@
       <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
     
       <category term="Graph" scheme="http://chanmi-kim.github.io/tags/Graph/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>자료구조 | 트리 (Tree)</title>
+    <link href="http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/26/Data-Structure-Tree/"/>
+    <id>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/26/Data-Structure-Tree/</id>
+    <published>2019-07-26T07:12:52.000Z</published>
+    <updated>2019-11-12T11:38:52.545Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Data-Structure-Tree-트리&quot;&gt;&lt;a href=&quot;#Data-Structure-Tree-트리&quot; class=&quot;headerlink&quot; title=&quot;Data Structure : Tree(트리)&quot;&gt;&lt;/a&gt;Data Structure : Tree(트리)&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;트리 구조란 그래프의 일종으로, 여러 노드가 한 노드를 가리킬 수 없는 구조입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="Computer Science" scheme="http://chanmi-kim.github.io/categories/Computer-Science/"/>
+    
+      <category term="Data Structure" scheme="http://chanmi-kim.github.io/categories/Computer-Science/Data-Structure/"/>
+    
+    
+      <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
+    
+      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
+    
+      <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
+    
+      <category term="Tree" scheme="http://chanmi-kim.github.io/tags/Tree/"/>
     
   </entry>
   

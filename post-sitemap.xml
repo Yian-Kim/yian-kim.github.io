@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-Arrays/</loc>
+        <lastmod>2019-12-07T09:36:05.894Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/26/Data-Structure-Tree/</loc>
         <lastmod>2019-11-12T11:38:52.545Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -160,14 +168,6 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-Arrays/</loc>
-        <lastmod>2019-11-07T13:18:51.333Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://chanmi-kim.github.io/Devlog/Issues/2019/10/06/Issues-Git-Expo-CLI-is-in-non-interactive-mode/</loc>
         <lastmod>2019-11-07T13:01:14.803Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -178,14 +178,6 @@
     <url>
         <loc>http://chanmi-kim.github.io/Devlog/Issues/2019/09/25/Issues-Java-Collection-max/</loc>
         <lastmod>2019-11-07T13:00:56.072Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/Devlog/Issues/2019/09/29/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/</loc>
-        <lastmod>2019-11-07T12:52:56.557Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
