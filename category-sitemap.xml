@@ -8,15 +8,15 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/categories/Language/Java/</loc>
-        <lastmod>2019-12-07T09:36:05.894Z</lastmod>
+        <loc>http://chanmi-kim.github.io/categories/Devlog/Issues/</loc>
+        <lastmod>2019-12-07T09:42:12.180Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/categories/Language/</loc>
-        <lastmod>2019-12-07T09:36:05.894Z</lastmod>
+        <loc>http://chanmi-kim.github.io/categories/Devlog/</loc>
+        <lastmod>2019-12-07T09:42:12.180Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -43,22 +43,8 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/categories/Devlog/</loc>
-        <lastmod>2019-11-11T10:21:15.930Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://chanmi-kim.github.io/categories/Computer-Science/Operating-System/</loc>
         <lastmod>2019-11-10T11:30:01.378Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/categories/Devlog/Issues/</loc>
-        <lastmod>2019-11-10T11:28:57.681Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

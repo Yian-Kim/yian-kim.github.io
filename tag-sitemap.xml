@@ -3,22 +3,29 @@
 
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Arrays/</loc>
-        <lastmod>2019-12-07T09:36:05.894Z</lastmod>
+        <loc>http://chanmi-kim.github.io/tags/java-lang-ArrayIndexOutOfBoundsException/</loc>
+        <lastmod>2019-12-07T09:42:12.180Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Language/</loc>
-        <lastmod>2019-12-07T09:36:05.894Z</lastmod>
+        <loc>http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/</loc>
+        <lastmod>2019-12-07T09:42:12.180Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/Java/</loc>
-        <lastmod>2019-12-07T09:36:05.894Z</lastmod>
+        <lastmod>2019-12-07T09:42:12.180Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Issues/</loc>
+        <lastmod>2019-12-07T09:42:12.180Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -123,13 +130,6 @@
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/Git/</loc>
-        <lastmod>2019-11-10T11:28:57.681Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Issues/</loc>
         <lastmod>2019-11-10T11:28:57.681Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -290,15 +290,15 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/</loc>
+        <loc>http://chanmi-kim.github.io/tags/Git-Bash/</loc>
         <lastmod>2019-11-07T13:01:14.803Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Git-Bash/</loc>
-        <lastmod>2019-11-07T13:01:14.803Z</lastmod>
+        <loc>http://chanmi-kim.github.io/tags/Arrays/</loc>
+        <lastmod>2019-11-07T13:00:56.072Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
