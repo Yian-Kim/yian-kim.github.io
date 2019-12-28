@@ -16,7 +16,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Devlog/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/</loc>
+        <loc>http://chanmi-kim.github.io/Devlog/Issues/2019/09/29/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/</loc>
         <lastmod>2019-12-07T09:42:12.180Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -24,7 +24,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Data-Structure-Tree/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure-Tree/</loc>
         <lastmod>2019-11-12T11:38:52.545Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -32,7 +32,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Devlog/Hexo-Developer-community/</loc>
+        <loc>http://chanmi-kim.github.io/Devlog/Hexo/2019/11/11/Hexo-Developer-community/</loc>
         <lastmod>2019-11-11T10:21:15.930Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -40,7 +40,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Devlog/Hexo-Beginning-of-devlog/</loc>
+        <loc>http://chanmi-kim.github.io/Devlog/Hexo/2019/07/15/Hexo-Beginning-of-devlog/</loc>
         <lastmod>2019-11-10T16:29:35.991Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -48,7 +48,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Operating-System-introduce/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Operating-System-introduce/</loc>
         <lastmod>2019-11-10T11:30:01.378Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -56,7 +56,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Devlog/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/</loc>
+        <loc>http://chanmi-kim.github.io/Devlog/Issues/2019/10/06/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/</loc>
         <lastmod>2019-11-10T11:28:57.681Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -64,7 +64,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Algorithm-BFS-Searching/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm-BFS-Searching/</loc>
         <lastmod>2019-11-10T09:27:51.397Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -72,7 +72,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Algorithm-Binary-Search/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm-Binary-Search/</loc>
         <lastmod>2019-11-10T09:27:50.015Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -80,7 +80,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Algorithm-Counting-Sort/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm-Counting-Sort/</loc>
         <lastmod>2019-11-10T09:27:48.548Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -88,7 +88,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Algorithm-DFS-Searching/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm-DFS-Searching/</loc>
         <lastmod>2019-11-10T09:27:46.971Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -96,7 +96,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Algorithm-Dijkstra/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm-Dijkstra/</loc>
         <lastmod>2019-11-10T09:27:45.526Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -104,7 +104,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Algorithm-Insertion-Sort/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm-Insertion-Sort/</loc>
         <lastmod>2019-11-10T09:27:43.767Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -112,7 +112,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Algorithm-Dynamic-Programming/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm-Dynamic-Programming/</loc>
         <lastmod>2019-11-10T09:27:41.953Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -120,7 +120,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Algorithm-Parametric-Search/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm-Parametric-Search/</loc>
         <lastmod>2019-11-10T09:18:32.545Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -128,7 +128,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Algorithm-Permutation-and-Combination/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm-Permutation-and-Combination/</loc>
         <lastmod>2019-11-10T09:18:31.620Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -136,7 +136,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Algorithm-Quick-Sort/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm-Quick-Sort/</loc>
         <lastmod>2019-11-10T09:18:30.588Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -144,7 +144,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Data-Structure-Graph/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure-Graph/</loc>
         <lastmod>2019-11-10T09:18:29.187Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -152,7 +152,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Data-Structure-Hash/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure-Hash/</loc>
         <lastmod>2019-11-10T09:18:27.743Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -160,7 +160,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Data-Structure-Linked-List/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure-Linked-List/</loc>
         <lastmod>2019-11-10T09:18:25.793Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -176,7 +176,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Devlog/Issues-Git-Expo-CLI-is-in-non-interactive-mode/</loc>
+        <loc>http://chanmi-kim.github.io/Devlog/Issues/2019/10/06/Issues-Git-Expo-CLI-is-in-non-interactive-mode/</loc>
         <lastmod>2019-11-07T13:01:14.803Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -184,7 +184,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Devlog/Issues-Java-Collection-max/</loc>
+        <loc>http://chanmi-kim.github.io/Devlog/Issues/2019/09/25/Issues-Java-Collection-max/</loc>
         <lastmod>2019-11-07T13:00:56.072Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -192,7 +192,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Devlog/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/</loc>
+        <loc>http://chanmi-kim.github.io/Devlog/Review/2019/09/16/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/</loc>
         <lastmod>2019-11-07T12:52:22.690Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -200,7 +200,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Data-Structure-Queue/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure-Queue/</loc>
         <lastmod>2019-09-04T08:53:52.516Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -208,7 +208,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Data-Structure-Priority-Queue/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure-Priority-Queue/</loc>
         <lastmod>2019-09-04T08:53:47.362Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -216,7 +216,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Data-Structure-Stack/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Data-Structure-Stack/</loc>
         <lastmod>2019-09-01T11:28:27.281Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -224,7 +224,7 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/Algorithm-Recursion/</loc>
+        <loc>http://chanmi-kim.github.io/Computer-Science/Algorithm-Recursion/</loc>
         <lastmod>2019-09-01T11:28:27.278Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
