@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo | 헥소 개발자 커뮤니티에 초대합니다!</title>
-    <link href="http://chanmi-kim.github.io/Hexo-Developer-community/"/>
-    <id>http://chanmi-kim.github.io/Hexo-Developer-community/</id>
+    <link href="http://chanmi-kim.github.io/Devlog/Hexo-Developer-community/"/>
+    <id>http://chanmi-kim.github.io/Devlog/Hexo-Developer-community/</id>
     <published>2019-11-11T09:01:10.000Z</published>
     <updated>2019-11-11T10:21:15.930Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>깃허브 잔디심기 - 6개월간 회고록</title>
-    <link href="http://chanmi-kim.github.io/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/"/>
-    <id>http://chanmi-kim.github.io/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/</id>
+    <link href="http://chanmi-kim.github.io/Devlog/Essay/2019/11/06/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/"/>
+    <id>http://chanmi-kim.github.io/Devlog/Essay/2019/11/06/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/</id>
     <published>2019-11-06T14:54:50.000Z</published>
     <updated>2019-11-10T09:18:23.613Z</updated>
     
@@ -74,8 +74,8 @@
   
   <entry>
     <title>[이슈등록] Git &amp; Hexo - LF will be replaced by CRLF</title>
-    <link href="http://chanmi-kim.github.io/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/"/>
-    <id>http://chanmi-kim.github.io/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/</id>
+    <link href="http://chanmi-kim.github.io/Devlog/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/"/>
+    <id>http://chanmi-kim.github.io/Devlog/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/</id>
     <published>2019-10-06T10:36:45.000Z</published>
     <updated>2019-11-10T11:28:57.681Z</updated>
     
@@ -104,8 +104,8 @@
   
   <entry>
     <title>[이슈해결] Git &amp; Expo-CLI - Input is required, but Expo CLI is in non-interactive mode.</title>
-    <link href="http://chanmi-kim.github.io/Issues-Git-Expo-CLI-is-in-non-interactive-mode/"/>
-    <id>http://chanmi-kim.github.io/Issues-Git-Expo-CLI-is-in-non-interactive-mode/</id>
+    <link href="http://chanmi-kim.github.io/Devlog/Issues-Git-Expo-CLI-is-in-non-interactive-mode/"/>
+    <id>http://chanmi-kim.github.io/Devlog/Issues-Git-Expo-CLI-is-in-non-interactive-mode/</id>
     <published>2019-10-06T09:02:34.000Z</published>
     <updated>2019-11-07T13:01:14.803Z</updated>
     
@@ -160,8 +160,8 @@
   
   <entry>
     <title>[이슈해결] Java - java.lang.ArrayIndexOutOfBoundsException</title>
-    <link href="http://chanmi-kim.github.io/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/"/>
-    <id>http://chanmi-kim.github.io/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/</id>
+    <link href="http://chanmi-kim.github.io/Devlog/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/"/>
+    <id>http://chanmi-kim.github.io/Devlog/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/</id>
     <published>2019-09-29T14:29:44.000Z</published>
     <updated>2019-12-07T09:42:12.180Z</updated>
     
@@ -188,8 +188,8 @@
   
   <entry>
     <title>[이슈등록] Java 배열에서 최대값 찾기 구문에러</title>
-    <link href="http://chanmi-kim.github.io/Issues-Java-Collection-max/"/>
-    <id>http://chanmi-kim.github.io/Issues-Java-Collection-max/</id>
+    <link href="http://chanmi-kim.github.io/Devlog/Issues-Java-Collection-max/"/>
+    <id>http://chanmi-kim.github.io/Devlog/Issues-Java-Collection-max/</id>
     <published>2019-09-25T14:45:58.000Z</published>
     <updated>2019-11-07T13:00:56.072Z</updated>
     
@@ -218,8 +218,8 @@
   
   <entry>
     <title>NHN 2019 하반기 기술부문 신입사원 공개채용 설명회 후기</title>
-    <link href="http://chanmi-kim.github.io/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/"/>
-    <id>http://chanmi-kim.github.io/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/</id>
+    <link href="http://chanmi-kim.github.io/Devlog/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/"/>
+    <id>http://chanmi-kim.github.io/Devlog/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/</id>
     <published>2019-09-16T14:12:54.000Z</published>
     <updated>2019-11-07T12:52:22.690Z</updated>
     
@@ -429,13 +429,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
+      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
     
   </entry>
   
@@ -528,13 +528,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
-      <category term="Counting Sort" scheme="http://chanmi-kim.github.io/tags/Counting-Sort/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="Counting Sort" scheme="http://chanmi-kim.github.io/tags/Counting-Sort/"/>
     
   </entry>
   

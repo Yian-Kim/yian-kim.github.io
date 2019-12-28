@@ -9,33 +9,33 @@
 
 
 <!-- ejs -->
-<link rel="canonical" href="http://chanmi-kim.github.io/issues-java-collection-max/">
+<link rel="canonical" href="http://chanmi-kim.github.io/devlog/issues-java-java.lang.arrayindexoutofboundsexception/">
 
 <meta name="naver-site-verification" content="300b8851a7dc562c976d8091fce1b1947f82cc6c">
 
-<title>[이슈등록] Java 배열에서 최대값 찾기 구문에러 - 찬미의 개발블로그</title>
+<title>[이슈해결] Java - java.lang.ArrayIndexOutOfBoundsException - 찬미의 개발블로그</title>
 
 
-    <meta name="description" content="Error Message: The method max(Collection&amp;lt;? extends T&amp;gt;) in the type Collections is not applicable for the arguments (int[])">
-<meta name="keywords" content="Issues,Java,이슈등록,Collections,Arrays">
+    <meta name="description" content="Error Message: java.lang.ArrayIndexOutOfBoundsException">
+<meta name="keywords" content="Issues,Java,이슈해결,java.lang.ArrayIndexOutOfBoundsException">
 <meta property="og:type" content="article">
-<meta property="og:title" content="[이슈등록] Java 배열에서 최대값 찾기 구문에러">
-<meta property="og:url" content="http://chanmi-kim.github.io/Issues-Java-Collection-max/index.html">
+<meta property="og:title" content="[이슈해결] Java - java.lang.ArrayIndexOutOfBoundsException">
+<meta property="og:url" content="http://chanmi-kim.github.io/Devlog/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/index.html">
 <meta property="og:site_name" content="찬미의 개발블로그">
-<meta property="og:description" content="Error Message: The method max(Collection&amp;lt;? extends T&amp;gt;) in the type Collections is not applicable for the arguments (int[])">
+<meta property="og:description" content="Error Message: java.lang.ArrayIndexOutOfBoundsException">
 <meta property="og:locale" content="en">
-<meta property="og:image" content="http://chanmi-kim.github.io/images/Issues/coming-soon.png">
-<meta property="og:updated_time" content="2019-11-07T13:00:56.072Z">
+<meta property="og:image" content="http://chanmi-kim.github.io/images/Issues/completed.png">
+<meta property="og:updated_time" content="2019-12-07T09:42:12.180Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="[이슈등록] Java 배열에서 최대값 찾기 구문에러">
-<meta name="twitter:description" content="Error Message: The method max(Collection&amp;lt;? extends T&amp;gt;) in the type Collections is not applicable for the arguments (int[])">
-<meta name="twitter:image" content="http://chanmi-kim.github.io/images/Issues/coming-soon.png">
+<meta name="twitter:title" content="[이슈해결] Java - java.lang.ArrayIndexOutOfBoundsException">
+<meta name="twitter:description" content="Error Message: java.lang.ArrayIndexOutOfBoundsException">
+<meta name="twitter:image" content="http://chanmi-kim.github.io/images/Issues/completed.png">
 
 
 
 
 
-<link rel="alternative" href="/atom.xml" title="[이슈등록] Java 배열에서 최대값 찾기 구문에러" type="application/atom+xml">
+<link rel="alternative" href="/atom.xml" title="[이슈해결] Java - java.lang.ArrayIndexOutOfBoundsException" type="application/atom+xml">
 
 
 
@@ -111,7 +111,7 @@
         <div class="navbar-brand is-flex-center">
             <a class="navbar-item navbar-logo" href="/">
             
-                <img src="/images/CHANMI'S-DEVLOG-logo-black.png" alt="[이슈등록] Java 배열에서 최대값 찾기 구문에러" height="28">
+                <img src="/images/CHANMI'S-DEVLOG-logo-black.png" alt="[이슈해결] Java - java.lang.ArrayIndexOutOfBoundsException" height="28">
             
             </a>
         </div>
@@ -160,7 +160,7 @@
     
     <div class="card-image">
         <span class="image is-7by1">
-            <img class="thumbnail" src="/images/Issues/coming-soon.png" alt="[이슈등록] Java 배열에서 최대값 찾기 구문에러">
+            <img class="thumbnail" src="/images/Issues/completed.png" alt="[이슈해결] Java - java.lang.ArrayIndexOutOfBoundsException">
         </span>
     </div>
     
@@ -168,7 +168,7 @@
         
         <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
             <div class="level-left">
-                <time class="level-item has-text-grey" datetime="2019-09-25T14:45:58.000Z">2019-09-25</time>
+                <time class="level-item has-text-grey" datetime="2019-09-29T14:29:44.000Z">2019-09-29</time>
                 
                 <div class="level-item">
                 <a class="has-link-grey -link" href="/categories/Devlog/">Devlog</a>&nbsp;/&nbsp;<a class="has-link-grey -link" href="/categories/Devlog/Issues/">Issues</a>
@@ -178,7 +178,7 @@
                 <span class="level-item has-text-grey">
                     
                     
-                    2 minutes read (About 313 words)
+                    3 minutes read (About 489 words)
                 </span>
                 
                 
@@ -187,36 +187,46 @@
         
         <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
             
-                [이슈등록] Java 배열에서 최대값 찾기 구문에러
+                [이슈해결] Java - java.lang.ArrayIndexOutOfBoundsException
             
         </h1>
         <div class="content">
-            <p>Error Message: <code>The method max(Collection&lt;? extends T&gt;) in the type Collections is not applicable for the arguments (int[])</code></p>
+            <p>Error Message: <code>java.lang.ArrayIndexOutOfBoundsException</code></p>
 <a id="more"></a>
 
 <br>
 
 <h2 id="🌰-오류메시지"><a href="#🌰-오류메시지" class="headerlink" title="🌰 오류메시지"></a>🌰 오류메시지</h2><br>
 
-<figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-comment">// Error Message</span></span><br><span class="line"></span><br><span class="line">Exception in thread <span class="hljs-string">"main"</span> java.lang.Error: Unresolved compilation problem: </span><br><span class="line">   <span class="hljs-function">The method <span class="hljs-title">max</span><span class="hljs-params">(Collection&lt;? extends T&gt;)</span> in the type Collections is not applicable <span class="hljs-keyword">for</span> the <span class="hljs-title">arguments</span> <span class="hljs-params">(<span class="hljs-keyword">int</span>[])</span></span></span><br><span class="line"><span class="hljs-function">   </span></span><br><span class="line"><span class="hljs-function">   at Main.<span class="hljs-title">main</span><span class="hljs-params">(Main.java:<span class="hljs-number">28</span>)</span></span></span><br></pre></td></tr></table></figure>
+<figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-comment">// Error Message</span></span><br><span class="line"></span><br><span class="line">Exception in thread <span class="hljs-string">"main"</span> java.lang.ArrayIndexOutOfBoundsException: <span class="hljs-number">1</span></span><br><span class="line">   at Main.main(Main.java:<span class="hljs-number">12</span>)</span><br></pre></td></tr></table></figure>
 
 <br>
 
 <h2 id="💎-문제상황"><a href="#💎-문제상황" class="headerlink" title="💎 문제상황"></a>💎 문제상황</h2><br>
 
-<p>비타알고 알고리즘 문제를 풀다가 오류가 발생했습니다. C++에서 max_element 사용해서 배열 자체를 최대값을 찾는게 가능한 것 같은데 Java에서는 Math.max로 배열 비교가 안되는 것 같습니다. Java API Document에서도 찾지 못했습니다. </p>
+<p>지원 회사의 온라인 코딩테스트에 응시하다가 에러가 발생했습니다. 해당 에러는 최근에 제가 자주 접했던 에러입니다. 아래 코드의 의도는 개행문자 단위로 한 번에 입력을 받아 처리하고, 문자열과 숫자를 따로 분리하려고 했습니다. <code>String[] input = br.readLine().split(&quot;\\n&quot;);</code>에서 <code>Exception in thread &quot;main&quot; java.lang.ArrayIndexOutOfBoundsException</code>에러가 발생했고, 이를 처리하기 위해 알아보았습니다.</p>
 <br>
 
 <h2 id="🧩-예시코드"><a href="#🧩-예시코드" class="headerlink" title="🧩 예시코드"></a>🧩 예시코드</h2><br>
 
-<figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-comment">// Full Code는 추후 업데이트 하도록 하겠습니다.</span></span><br><span class="line"></span><br><span class="line"><span class="hljs-keyword">int</span> maxNum = Collections.max(dp);</span><br></pre></td></tr></table></figure>
+<figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-comment">// Wrong Code : Error가 발생한 Full Code입니다.</span></span><br><span class="line"></span><br><span class="line"><span class="hljs-keyword">import</span> java.io.*;</span><br><span class="line"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Main</span> </span>&#123;</span><br><span class="line">    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">main</span><span class="hljs-params">(String[] args)</span> <span class="hljs-keyword">throws</span> Exception </span>&#123;</span><br><span class="line">        BufferedReader br = <span class="hljs-keyword">new</span> BufferedReader(<span class="hljs-keyword">new</span> InputStreamReader(System.in));</span><br><span class="line">        <span class="hljs-keyword">int</span> n = Integer.parseInt(br.readLine());</span><br><span class="line">        String[] input = br.readLine().split(<span class="hljs-string">"\\n"</span>); <span class="hljs-comment">// Error</span></span><br><span class="line">        <span class="hljs-keyword">int</span> x = <span class="hljs-number">0</span>;</span><br><span class="line"></span><br><span class="line">        <span class="hljs-keyword">for</span> (<span class="hljs-keyword">int</span> i=<span class="hljs-number">0</span>; i&lt;n; i++) &#123;</span><br><span class="line">            String command = input[i].split(<span class="hljs-string">" "</span>)[<span class="hljs-number">0</span>];</span><br><span class="line">            x = Integer.parseInt(input[i].split(<span class="hljs-string">" "</span>)[<span class="hljs-number">1</span>]);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
 <br>
 
-<h2 id="🔑-해결방안"><a href="#🔑-해결방안" class="headerlink" title="🔑 해결방안"></a>🔑 해결방안</h2><p>여기서 2가지 궁금증을 가지고 이슈등록을 진행했으며, 해결되는대로 글을 업데이트하겠습니다. 우선, Arrays와 Collections에 대한 기초가 미흡하다고 느껴서 그 부분에 대해 공부를 해봐야겠네요.</p>
-<p>1) C++에서 max_element가 Java에서 Math.max랑 같은가?</p>
-<p>2) Java로 구현하려면 하나씩 max 일일이 비교해야 되는것인가?</p>
-<p>해결되는대로 본문 수정하겠습니다.</p>
+<p>예시 입력값]</p>
+<p>12<br>enqueue 1<br>enqueue 2<br>enqueue 2<br>enqueue 1<br>enqueue 2<br>dequeue<br>dequeue<br>dequeue<br>dequeue<br>dequeue<br>enqueue 7<br>dequeue</p>
+<br>
+
+<h2 id="🔑-해결방안"><a href="#🔑-해결방안" class="headerlink" title="🔑 해결방안"></a>🔑 해결방안</h2><br>
+
+<p>예시 입력값을 보시면 dequeue와 enqueue가 번갈아 나옵니다. <code>String[] input</code>에서 한 번에 입력받지 않고, for문을 사용하여 한 줄씩 입력받는 방식으로 변경하여 에러를 해결했습니다.</p>
+<br>
+
+<figure class="highlight java hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-comment">// Right Code : Error를 해결한 Full Code입니다.</span></span><br><span class="line"></span><br><span class="line"><span class="hljs-keyword">import</span> java.io.*;</span><br><span class="line"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Main</span> </span>&#123;</span><br><span class="line">    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">main</span><span class="hljs-params">(String[] args)</span> <span class="hljs-keyword">throws</span> Exception </span>&#123;</span><br><span class="line">        BufferedReader br = <span class="hljs-keyword">new</span> BufferedReader(<span class="hljs-keyword">new</span> InputStreamReader(System.in));</span><br><span class="line">        <span class="hljs-keyword">int</span> n = Integer.parseInt(br.readLine());</span><br><span class="line">        <span class="hljs-comment">// String[] input = br.readLine().split("\\n"); // Error</span></span><br><span class="line">        <span class="hljs-keyword">int</span> x = <span class="hljs-number">0</span>;</span><br><span class="line"></span><br><span class="line">        <span class="hljs-keyword">for</span> (<span class="hljs-keyword">int</span> i=<span class="hljs-number">0</span>; i&lt;n; i++) &#123;</span><br><span class="line">            String input = br.readLine(); <span class="hljs-comment">// Solving</span></span><br><span class="line">            String command = input[i].split(<span class="hljs-string">" "</span>)[<span class="hljs-number">0</span>];</span><br><span class="line">            x = Integer.parseInt(input[i].split(<span class="hljs-string">" "</span>)[<span class="hljs-number">1</span>]);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<br>
+
+<p>위의 코드에서 <code>Error</code>가 발생했던 입력문을 <code>Solving</code> 부분으로 바꿔주어 에러를 해결할 수 있었습니다. 해당 이슈에서는 <code>ArrayIndexOutOfBoundsException</code> 에러가 난 이유가 <code>br.readLine()</code>에 이미 강제개행이 포함이 되어 있어, 없는 문자에 접근하는 것으로 이해했습니다. 개행문자 단위로 입력을 받을 경우, 위의 내용처럼 입력을 받는 것이 낫다는 것을 알게 되었습니다.</p>
 <br>
 
         </div>
@@ -225,7 +235,7 @@
             <div class="level-start">
                 <div class="level-item">
                     <span class="is-size-6 has-text-grey has-mr-7">#</span>
-                    <a class="has-link-grey -link" href="/tags/Arrays/">Arrays</a>, <a class="has-link-grey -link" href="/tags/Collections/">Collections</a>, <a class="has-link-grey -link" href="/tags/Issues/">Issues</a>, <a class="has-link-grey -link" href="/tags/Java/">Java</a>, <a class="has-link-grey -link" href="/tags/이슈등록/">이슈등록</a>
+                    <a class="has-link-grey -link" href="/tags/Issues/">Issues</a>, <a class="has-link-grey -link" href="/tags/Java/">Java</a>, <a class="has-link-grey -link" href="/tags/java-lang-ArrayIndexOutOfBoundsException/">java.lang.ArrayIndexOutOfBoundsException</a>, <a class="has-link-grey -link" href="/tags/이슈해결/">이슈해결</a>
                 </div>
             </div>
         </div>
@@ -267,16 +277,16 @@
     <div class="level post-navigation is-flex-wrap is-mobile">
         
         <div class="level-start">
-            <a class="level level-item has-link-grey  article-nav-prev" href="/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/">
+            <a class="level level-item has-link-grey  article-nav-prev" href="/Language/Java/2019/10/03/Java-Easily-confused-Java-concepts-Arrays/">
                 <i class="level-item fas fa-chevron-left"></i>
-                <span class="level-item">[이슈해결] Java - java.lang.ArrayIndexOutOfBoundsException</span>
+                <span class="level-item">Java | 헷갈리기 쉬운 Java 개념 #01 배열</span>
             </a>
         </div>
         
         
         <div class="level-end">
-            <a class="level level-item has-link-grey  article-nav-next" href="/Review-NHN-2019-Technical-Division-Public-Recruitment-Session/">
-                <span class="level-item">NHN 2019 하반기 기술부문 신입사원 공개채용 설명회 후기</span>
+            <a class="level level-item has-link-grey  article-nav-next" href="/Devlog/Issues-Java-Collection-max/">
+                <span class="level-item">[이슈등록] Java 배열에서 최대값 찾기 구문에러</span>
                 <i class="level-item fas fa-chevron-right"></i>
             </a>
         </div>
@@ -292,8 +302,8 @@
         
 <script>
     var disqus_config = function () {
-        this.page.url = 'http://chanmi-kim.github.io/Issues-Java-Collection-max/';
-        this.page.identifier = 'Issues-Java-Collection-max/';
+        this.page.url = 'http://chanmi-kim.github.io/Devlog/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/';
+        this.page.identifier = 'Devlog/Issues-Java-java.lang.ArrayIndexOutOfBoundsException/';
     };
     (function() {
         var d = document, s = d.createElement('script');  
@@ -615,7 +625,7 @@
         
         <article class="media">
             
-            <a href="/Hexo-Developer-community/" class="media-left">
+            <a href="/Devlog/Hexo-Developer-community/" class="media-left">
                 <p class="image is-64x64">
                     <img class="thumbnail" src="/images/Hexo/Hexo-developer-community/thumnail.jpg" alt="Hexo | 헥소 개발자 커뮤니티에 초대합니다!">
                 </p>
@@ -624,7 +634,7 @@
             <div class="media-content">
                 <div class="content">
                     <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2019-11-11T09:01:10.000Z">2019-11-11</time></div>
-                    <a href="/Hexo-Developer-community/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Hexo | 헥소 개발자 커뮤니티에 초대합니다!</a>
+                    <a href="/Devlog/Hexo-Developer-community/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Hexo | 헥소 개발자 커뮤니티에 초대합니다!</a>
                     <p class="is-size-7 is-uppercase">
                         <a class="has-link-grey -link" href="/categories/Devlog/">Devlog</a> / <a class="has-link-grey -link" href="/categories/Devlog/Hexo/">Hexo</a>
                     </p>
@@ -634,7 +644,7 @@
         
         <article class="media">
             
-            <a href="/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/" class="media-left">
+            <a href="/Devlog/Essay/2019/11/06/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/" class="media-left">
                 <p class="image is-64x64">
                     <img class="thumbnail" src="/images/Essay/Github-Grass-Plantation-A-Memoir-for-6-Month/thumnail.PNG" alt="깃허브 잔디심기 - 6개월간 회고록">
                 </p>
@@ -643,7 +653,7 @@
             <div class="media-content">
                 <div class="content">
                     <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2019-11-06T14:54:50.000Z">2019-11-06</time></div>
-                    <a href="/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/" class="title has-link-black-ter is-size-6 has-text-weight-normal">깃허브 잔디심기 - 6개월간 회고록</a>
+                    <a href="/Devlog/Essay/2019/11/06/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/" class="title has-link-black-ter is-size-6 has-text-weight-normal">깃허브 잔디심기 - 6개월간 회고록</a>
                     <p class="is-size-7 is-uppercase">
                         <a class="has-link-grey -link" href="/categories/Devlog/">Devlog</a> / <a class="has-link-grey -link" href="/categories/Devlog/Essay/">Essay</a>
                     </p>
@@ -653,7 +663,7 @@
         
         <article class="media">
             
-            <a href="/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/" class="media-left">
+            <a href="/Devlog/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/" class="media-left">
                 <p class="image is-64x64">
                     <img class="thumbnail" src="/images/Issues/coming-soon.png" alt="[이슈등록] Git &amp; Hexo - LF will be replaced by CRLF">
                 </p>
@@ -662,7 +672,7 @@
             <div class="media-content">
                 <div class="content">
                     <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2019-10-06T10:36:45.000Z">2019-10-06</time></div>
-                    <a href="/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/" class="title has-link-black-ter is-size-6 has-text-weight-normal">[이슈등록] Git &amp; Hexo - LF will be replaced by CRLF</a>
+                    <a href="/Devlog/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/" class="title has-link-black-ter is-size-6 has-text-weight-normal">[이슈등록] Git &amp; Hexo - LF will be replaced by CRLF</a>
                     <p class="is-size-7 is-uppercase">
                         <a class="has-link-grey -link" href="/categories/Devlog/">Devlog</a> / <a class="has-link-grey -link" href="/categories/Devlog/Issues/">Issues</a>
                     </p>
@@ -672,7 +682,7 @@
         
         <article class="media">
             
-            <a href="/Issues-Git-Expo-CLI-is-in-non-interactive-mode/" class="media-left">
+            <a href="/Devlog/Issues-Git-Expo-CLI-is-in-non-interactive-mode/" class="media-left">
                 <p class="image is-64x64">
                     <img class="thumbnail" src="/images/Issues/completed.png" alt="[이슈해결] Git &amp; Expo-CLI - Input is required, but Expo CLI is in non-interactive mode.">
                 </p>
@@ -681,7 +691,7 @@
             <div class="media-content">
                 <div class="content">
                     <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2019-10-06T09:02:34.000Z">2019-10-06</time></div>
-                    <a href="/Issues-Git-Expo-CLI-is-in-non-interactive-mode/" class="title has-link-black-ter is-size-6 has-text-weight-normal">[이슈해결] Git &amp; Expo-CLI - Input is required, but Expo CLI is in non-interactive mode.</a>
+                    <a href="/Devlog/Issues-Git-Expo-CLI-is-in-non-interactive-mode/" class="title has-link-black-ter is-size-6 has-text-weight-normal">[이슈해결] Git &amp; Expo-CLI - Input is required, but Expo CLI is in non-interactive mode.</a>
                     <p class="is-size-7 is-uppercase">
                         <a class="has-link-grey -link" href="/categories/Devlog/">Devlog</a> / <a class="has-link-grey -link" href="/categories/Devlog/Issues/">Issues</a>
                     </p>
@@ -1191,7 +1201,7 @@
         
         <article class="media">
             
-            <a href="/Hexo-Developer-community/" class="media-left">
+            <a href="/Devlog/Hexo-Developer-community/" class="media-left">
                 <p class="image is-64x64">
                     <img class="thumbnail" src="/images/Hexo/Hexo-developer-community/thumnail.jpg" alt="Hexo | 헥소 개발자 커뮤니티에 초대합니다!">
                 </p>
@@ -1200,7 +1210,7 @@
             <div class="media-content">
                 <div class="content">
                     <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2019-11-11T09:01:10.000Z">2019-11-11</time></div>
-                    <a href="/Hexo-Developer-community/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Hexo | 헥소 개발자 커뮤니티에 초대합니다!</a>
+                    <a href="/Devlog/Hexo-Developer-community/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Hexo | 헥소 개발자 커뮤니티에 초대합니다!</a>
                     <p class="is-size-7 is-uppercase">
                         <a class="has-link-grey -link" href="/categories/Devlog/">Devlog</a> / <a class="has-link-grey -link" href="/categories/Devlog/Hexo/">Hexo</a>
                     </p>
@@ -1210,7 +1220,7 @@
         
         <article class="media">
             
-            <a href="/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/" class="media-left">
+            <a href="/Devlog/Essay/2019/11/06/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/" class="media-left">
                 <p class="image is-64x64">
                     <img class="thumbnail" src="/images/Essay/Github-Grass-Plantation-A-Memoir-for-6-Month/thumnail.PNG" alt="깃허브 잔디심기 - 6개월간 회고록">
                 </p>
@@ -1219,7 +1229,7 @@
             <div class="media-content">
                 <div class="content">
                     <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2019-11-06T14:54:50.000Z">2019-11-06</time></div>
-                    <a href="/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/" class="title has-link-black-ter is-size-6 has-text-weight-normal">깃허브 잔디심기 - 6개월간 회고록</a>
+                    <a href="/Devlog/Essay/2019/11/06/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/" class="title has-link-black-ter is-size-6 has-text-weight-normal">깃허브 잔디심기 - 6개월간 회고록</a>
                     <p class="is-size-7 is-uppercase">
                         <a class="has-link-grey -link" href="/categories/Devlog/">Devlog</a> / <a class="has-link-grey -link" href="/categories/Devlog/Essay/">Essay</a>
                     </p>
@@ -1229,7 +1239,7 @@
         
         <article class="media">
             
-            <a href="/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/" class="media-left">
+            <a href="/Devlog/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/" class="media-left">
                 <p class="image is-64x64">
                     <img class="thumbnail" src="/images/Issues/coming-soon.png" alt="[이슈등록] Git &amp; Hexo - LF will be replaced by CRLF">
                 </p>
@@ -1238,7 +1248,7 @@
             <div class="media-content">
                 <div class="content">
                     <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2019-10-06T10:36:45.000Z">2019-10-06</time></div>
-                    <a href="/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/" class="title has-link-black-ter is-size-6 has-text-weight-normal">[이슈등록] Git &amp; Hexo - LF will be replaced by CRLF</a>
+                    <a href="/Devlog/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/" class="title has-link-black-ter is-size-6 has-text-weight-normal">[이슈등록] Git &amp; Hexo - LF will be replaced by CRLF</a>
                     <p class="is-size-7 is-uppercase">
                         <a class="has-link-grey -link" href="/categories/Devlog/">Devlog</a> / <a class="has-link-grey -link" href="/categories/Devlog/Issues/">Issues</a>
                     </p>
@@ -1248,7 +1258,7 @@
         
         <article class="media">
             
-            <a href="/Issues-Git-Expo-CLI-is-in-non-interactive-mode/" class="media-left">
+            <a href="/Devlog/Issues-Git-Expo-CLI-is-in-non-interactive-mode/" class="media-left">
                 <p class="image is-64x64">
                     <img class="thumbnail" src="/images/Issues/completed.png" alt="[이슈해결] Git &amp; Expo-CLI - Input is required, but Expo CLI is in non-interactive mode.">
                 </p>
@@ -1257,7 +1267,7 @@
             <div class="media-content">
                 <div class="content">
                     <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2019-10-06T09:02:34.000Z">2019-10-06</time></div>
-                    <a href="/Issues-Git-Expo-CLI-is-in-non-interactive-mode/" class="title has-link-black-ter is-size-6 has-text-weight-normal">[이슈해결] Git &amp; Expo-CLI - Input is required, but Expo CLI is in non-interactive mode.</a>
+                    <a href="/Devlog/Issues-Git-Expo-CLI-is-in-non-interactive-mode/" class="title has-link-black-ter is-size-6 has-text-weight-normal">[이슈해결] Git &amp; Expo-CLI - Input is required, but Expo CLI is in non-interactive mode.</a>
                     <p class="is-size-7 is-uppercase">
                         <a class="has-link-grey -link" href="/categories/Devlog/">Devlog</a> / <a class="has-link-grey -link" href="/categories/Devlog/Issues/">Issues</a>
                     </p>
@@ -1759,7 +1769,7 @@
             <div class="level-start has-text-centered-mobile">
                 <a class="footer-logo is-block has-mb-6" href="/">
                 
-                    <img src="/images/CHANMI'S-DEVLOG-logo-black.png" alt="[이슈등록] Java 배열에서 최대값 찾기 구문에러" height="28">
+                    <img src="/images/CHANMI'S-DEVLOG-logo-black.png" alt="[이슈해결] Java - java.lang.ArrayIndexOutOfBoundsException" height="28">
                 
                 </a>
                 <p class="is-size-7">
