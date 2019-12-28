@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>http://chanmi-kim.github.io/tags/Language/</loc>
+        <lastmod>2019-12-28T05:12:18.860Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Arrays/</loc>
+        <lastmod>2019-12-28T05:12:18.860Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Java/</loc>
+        <lastmod>2019-12-28T05:12:18.860Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/tags/java-lang-ArrayIndexOutOfBoundsException/</loc>
         <lastmod>2019-12-07T09:42:12.180Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,27 +40,6 @@
     <url>
         <loc>http://chanmi-kim.github.io/tags/Issues/</loc>
         <lastmod>2019-12-07T09:42:12.180Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Java/</loc>
-        <lastmod>2019-12-07T09:42:12.180Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Language/</loc>
-        <lastmod>2019-12-07T09:42:06.715Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Arrays/</loc>
-        <lastmod>2019-12-07T09:42:06.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
