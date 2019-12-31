@@ -3,14 +3,49 @@
 
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Language/</loc>
-        <lastmod>2019-12-28T05:12:18.860Z</lastmod>
+        <loc>http://chanmi-kim.github.io/tags/NCTEST/</loc>
+        <lastmod>2019-12-31T07:46:04.060Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/%EC%97%94%EC%94%A8%EC%86%8C%ED%94%84%ED%8A%B8/</loc>
+        <lastmod>2019-12-31T07:46:04.060Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/NCSOFT/</loc>
+        <lastmod>2019-12-31T07:46:04.060Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Job-Hunter/</loc>
+        <lastmod>2019-12-31T07:46:04.060Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Review/</loc>
+        <lastmod>2019-12-31T07:46:04.060Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/Arrays/</loc>
+        <lastmod>2019-12-28T05:12:18.860Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Language/</loc>
         <lastmod>2019-12-28T05:12:18.860Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -136,14 +171,14 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Git/</loc>
+        <loc>http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/</loc>
         <lastmod>2019-11-10T11:28:57.681Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/</loc>
+        <loc>http://chanmi-kim.github.io/tags/Git/</loc>
         <lastmod>2019-11-10T11:28:57.681Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -318,13 +353,6 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Job-Hunter/</loc>
-        <lastmod>2019-11-07T12:52:22.690Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://chanmi-kim.github.io/tags/%EC%B1%84%EC%9A%A9%EC%84%A4%EB%AA%85%ED%9A%8C/</loc>
         <lastmod>2019-11-07T12:52:22.690Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -340,13 +368,6 @@
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/NHN/</loc>
-        <lastmod>2019-11-07T12:52:22.690Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Review/</loc>
         <lastmod>2019-11-07T12:52:22.690Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
