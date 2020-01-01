@@ -6,7 +6,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://chanmi-kim.github.io/"/>
-  <updated>2019-11-11T10:21:15.930Z</updated>
+  <updated>2020-01-01T04:53:09.703Z</updated>
   <id>http://chanmi-kim.github.io/</id>
   
   <author>
@@ -15,6 +15,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://chanmi-kim.github.io/test/"/>
+    <id>http://chanmi-kim.github.io/test/</id>
+    <published>2020-01-10T04:47:58.000Z</published>
+    <updated>2020-01-01T04:53:09.703Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Test" scheme="http://chanmi-kim.github.io/categories/Test/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo | 헥소 개발자 커뮤니티에 초대합니다!</title>
@@ -90,13 +106,13 @@
       <category term="Issues" scheme="http://chanmi-kim.github.io/categories/Devlog/Issues/"/>
     
     
-      <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
-    
       <category term="Hexo" scheme="http://chanmi-kim.github.io/tags/Hexo/"/>
     
-      <category term="Git" scheme="http://chanmi-kim.github.io/tags/Git/"/>
+      <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
     
       <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
+    
+      <category term="Git" scheme="http://chanmi-kim.github.io/tags/Git/"/>
     
       <category term="LF will be replaced by CRLF" scheme="http://chanmi-kim.github.io/tags/LF-will-be-replaced-by-CRLF/"/>
     
@@ -601,39 +617,6 @@
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="Linked List" scheme="http://chanmi-kim.github.io/tags/Linked-List/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>자료구조 | 그래프 (Graph)</title>
-    <link href="http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/27/Data-Structure-Graph/"/>
-    <id>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/27/Data-Structure-Graph/</id>
-    <published>2019-07-27T07:23:05.000Z</published>
-    <updated>2019-11-10T09:18:29.187Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;Data-Structure-Graph-그래프&quot;&gt;&lt;a href=&quot;#Data-Structure-Graph-그래프&quot; class=&quot;headerlink&quot; title=&quot;Data Structure : Graph(그래프)&quot;&gt;&lt;/a&gt;Data Structure : Graph(그래프)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;그래프(Graph)는 컴퓨터 시스템에서 연결되어 있는 객체간의 관계를 표현할 수 있는 자료구조입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="Computer Science" scheme="http://chanmi-kim.github.io/categories/Computer-Science/"/>
-    
-      <category term="Data Structure" scheme="http://chanmi-kim.github.io/categories/Computer-Science/Data-Structure/"/>
-    
-    
-      <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
-    
-      <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
-    
-      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
-    
-      <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Graph" scheme="http://chanmi-kim.github.io/tags/Graph/"/>
     
   </entry>
   
