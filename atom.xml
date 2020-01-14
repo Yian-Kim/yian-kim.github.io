@@ -90,9 +90,9 @@
       <category term="Issues" scheme="http://chanmi-kim.github.io/categories/Devlog/Issues/"/>
     
     
-      <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
-    
       <category term="Hexo" scheme="http://chanmi-kim.github.io/tags/Hexo/"/>
+    
+      <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
     
       <category term="Git" scheme="http://chanmi-kim.github.io/tags/Git/"/>
     
@@ -208,9 +208,9 @@
     
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
-      <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
-    
       <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
+    
+      <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
     
       <category term="Collections" scheme="http://chanmi-kim.github.io/tags/Collections/"/>
     
@@ -237,13 +237,13 @@
     
       <category term="Review" scheme="http://chanmi-kim.github.io/tags/Review/"/>
     
+      <category term="Job Hunter" scheme="http://chanmi-kim.github.io/tags/Job-Hunter/"/>
+    
       <category term="NHN" scheme="http://chanmi-kim.github.io/tags/NHN/"/>
     
       <category term="Public Recruitment Session" scheme="http://chanmi-kim.github.io/tags/Public-Recruitment-Session/"/>
     
       <category term="채용설명회" scheme="http://chanmi-kim.github.io/tags/%EC%B1%84%EC%9A%A9%EC%84%A4%EB%AA%85%ED%9A%8C/"/>
-    
-      <category term="Job Hunter" scheme="http://chanmi-kim.github.io/tags/Job-Hunter/"/>
     
   </entry>
   
@@ -462,13 +462,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
-      <category term="DFS Searching" scheme="http://chanmi-kim.github.io/tags/DFS-Searching/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="DFS Searching" scheme="http://chanmi-kim.github.io/tags/DFS-Searching/"/>
     
   </entry>
   
