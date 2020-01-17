@@ -90,13 +90,13 @@
       <category term="Issues" scheme="http://chanmi-kim.github.io/categories/Devlog/Issues/"/>
     
     
-      <category term="Hexo" scheme="http://chanmi-kim.github.io/tags/Hexo/"/>
-    
       <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
     
-      <category term="Git" scheme="http://chanmi-kim.github.io/tags/Git/"/>
+      <category term="Hexo" scheme="http://chanmi-kim.github.io/tags/Hexo/"/>
     
       <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
+    
+      <category term="Git" scheme="http://chanmi-kim.github.io/tags/Git/"/>
     
       <category term="LF will be replaced by CRLF" scheme="http://chanmi-kim.github.io/tags/LF-will-be-replaced-by-CRLF/"/>
     
@@ -152,9 +152,9 @@
     
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
-      <category term="Language" scheme="http://chanmi-kim.github.io/tags/Language/"/>
-    
       <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
+    
+      <category term="Language" scheme="http://chanmi-kim.github.io/tags/Language/"/>
     
   </entry>
   
@@ -208,11 +208,11 @@
     
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
-      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
-    
       <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
     
       <category term="Collections" scheme="http://chanmi-kim.github.io/tags/Collections/"/>
+    
+      <category term="Arrays" scheme="http://chanmi-kim.github.io/tags/Arrays/"/>
     
   </entry>
   
@@ -561,13 +561,13 @@
     
       <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
+      <category term="Quick Sort" scheme="http://chanmi-kim.github.io/tags/Quick-Sort/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Quick Sort" scheme="http://chanmi-kim.github.io/tags/Quick-Sort/"/>
     
   </entry>
   
