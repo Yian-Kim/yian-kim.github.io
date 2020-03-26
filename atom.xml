@@ -94,9 +94,9 @@
     
       <category term="Hexo" scheme="http://chanmi-kim.github.io/tags/Hexo/"/>
     
-      <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
-    
       <category term="Git" scheme="http://chanmi-kim.github.io/tags/Git/"/>
+    
+      <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
     
       <category term="LF will be replaced by CRLF" scheme="http://chanmi-kim.github.io/tags/LF-will-be-replaced-by-CRLF/"/>
     
@@ -268,13 +268,13 @@
     
       <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
     
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
       <category term="Dijkstra" scheme="http://chanmi-kim.github.io/tags/Dijkstra/"/>
     
@@ -326,13 +326,13 @@
     
       <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
     
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
       <category term="Permutation" scheme="http://chanmi-kim.github.io/tags/Permutation/"/>
     
@@ -361,13 +361,13 @@
     
       <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
     
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
       <category term="Dynamic Programming" scheme="http://chanmi-kim.github.io/tags/Dynamic-Programming/"/>
     
@@ -394,13 +394,13 @@
     
       <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
     
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
       <category term="Parametric Search" scheme="http://chanmi-kim.github.io/tags/Parametric-Search/"/>
     
@@ -427,13 +427,13 @@
     
       <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
     
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
       <category term="BFS Searching" scheme="http://chanmi-kim.github.io/tags/BFS-Searching/"/>
     
@@ -460,13 +460,13 @@
     
       <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
     
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
       <category term="DFS Searching" scheme="http://chanmi-kim.github.io/tags/DFS-Searching/"/>
     
@@ -493,13 +493,13 @@
     
       <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
     
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
       <category term="Binary Search" scheme="http://chanmi-kim.github.io/tags/Binary-Search/"/>
     
@@ -526,13 +526,13 @@
     
       <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
     
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
     
       <category term="Counting Sort" scheme="http://chanmi-kim.github.io/tags/Counting-Sort/"/>
     
@@ -559,15 +559,15 @@
     
       <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
     
+      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
+    
+      <category term="Quick Sort" scheme="http://chanmi-kim.github.io/tags/Quick-Sort/"/>
+    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Algorithm" scheme="http://chanmi-kim.github.io/tags/Algorithm/"/>
-    
-      <category term="Quick Sort" scheme="http://chanmi-kim.github.io/tags/Quick-Sort/"/>
     
   </entry>
   
@@ -592,13 +592,13 @@
     
       <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
     
-      <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
     
       <category term="Linked List" scheme="http://chanmi-kim.github.io/tags/Linked-List/"/>
     
@@ -625,13 +625,13 @@
     
       <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
     
-      <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
-    
       <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
     
       <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
+    
+      <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
     
       <category term="Graph" scheme="http://chanmi-kim.github.io/tags/Graph/"/>
     
