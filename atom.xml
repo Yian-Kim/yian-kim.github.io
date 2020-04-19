@@ -6,7 +6,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://chanmi-kim.github.io/"/>
-  <updated>2019-11-11T10:21:15.930Z</updated>
+  <updated>2020-04-19T14:32:29.433Z</updated>
   <id>http://chanmi-kim.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[이슈해결] 소스트리 종료 현상 - SourceTree Crash Report</title>
+    <link href="http://chanmi-kim.github.io/Devlog/Issues/2020/04/19/Issues-SourceTree-Crash-Report/"/>
+    <id>http://chanmi-kim.github.io/Devlog/Issues/2020/04/19/Issues-SourceTree-Crash-Report/</id>
+    <published>2020-04-19T14:00:32.000Z</published>
+    <updated>2020-04-19T14:32:29.433Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;소스트리(Source Tree) 사용 시 종료되고 Crash Report 창이 뜨는 것에 대한 해결방법을 담았습니다.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Devlog" scheme="http://chanmi-kim.github.io/categories/Devlog/"/>
+    
+      <category term="Issues" scheme="http://chanmi-kim.github.io/categories/Devlog/Issues/"/>
+    
+    
+      <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
+    
+      <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
+    
+      <category term="SourceTree" scheme="http://chanmi-kim.github.io/tags/SourceTree/"/>
+    
+      <category term="Crash Report" scheme="http://chanmi-kim.github.io/tags/Crash-Report/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo | 헥소 개발자 커뮤니티에 초대합니다!</title>
@@ -90,9 +118,9 @@
       <category term="Issues" scheme="http://chanmi-kim.github.io/categories/Devlog/Issues/"/>
     
     
-      <category term="Hexo" scheme="http://chanmi-kim.github.io/tags/Hexo/"/>
-    
       <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
+    
+      <category term="Hexo" scheme="http://chanmi-kim.github.io/tags/Hexo/"/>
     
       <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
     
@@ -122,9 +150,9 @@
     
       <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
     
-      <category term="Git Bash" scheme="http://chanmi-kim.github.io/tags/Git-Bash/"/>
-    
       <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
+    
+      <category term="Git Bash" scheme="http://chanmi-kim.github.io/tags/Git-Bash/"/>
     
       <category term="Expo-CLI" scheme="http://chanmi-kim.github.io/tags/Expo-CLI/"/>
     
@@ -237,13 +265,13 @@
     
       <category term="Review" scheme="http://chanmi-kim.github.io/tags/Review/"/>
     
-      <category term="Job Hunter" scheme="http://chanmi-kim.github.io/tags/Job-Hunter/"/>
-    
       <category term="NHN" scheme="http://chanmi-kim.github.io/tags/NHN/"/>
     
       <category term="Public Recruitment Session" scheme="http://chanmi-kim.github.io/tags/Public-Recruitment-Session/"/>
     
       <category term="채용설명회" scheme="http://chanmi-kim.github.io/tags/%EC%B1%84%EC%9A%A9%EC%84%A4%EB%AA%85%ED%9A%8C/"/>
+    
+      <category term="Job Hunter" scheme="http://chanmi-kim.github.io/tags/Job-Hunter/"/>
     
   </entry>
   
@@ -601,39 +629,6 @@
       <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
     
       <category term="Linked List" scheme="http://chanmi-kim.github.io/tags/Linked-List/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>자료구조 | 그래프 (Graph)</title>
-    <link href="http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/27/Data-Structure-Graph/"/>
-    <id>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/27/Data-Structure-Graph/</id>
-    <published>2019-07-27T07:23:05.000Z</published>
-    <updated>2019-11-10T09:18:29.187Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;Data-Structure-Graph-그래프&quot;&gt;&lt;a href=&quot;#Data-Structure-Graph-그래프&quot; class=&quot;headerlink&quot; title=&quot;Data Structure : Graph(그래프)&quot;&gt;&lt;/a&gt;Data Structure : Graph(그래프)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;그래프(Graph)는 컴퓨터 시스템에서 연결되어 있는 객체간의 관계를 표현할 수 있는 자료구조입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
-    
-    </summary>
-    
-      <category term="Computer Science" scheme="http://chanmi-kim.github.io/categories/Computer-Science/"/>
-    
-      <category term="Data Structure" scheme="http://chanmi-kim.github.io/categories/Computer-Science/Data-Structure/"/>
-    
-    
-      <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
-    
-      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
-    
-      <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
-    
-      <category term="Graph" scheme="http://chanmi-kim.github.io/tags/Graph/"/>
     
   </entry>
   
