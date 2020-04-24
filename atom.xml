@@ -122,9 +122,9 @@
     
       <category term="Hexo" scheme="http://chanmi-kim.github.io/tags/Hexo/"/>
     
-      <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
-    
       <category term="Git" scheme="http://chanmi-kim.github.io/tags/Git/"/>
+    
+      <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
     
       <category term="LF will be replaced by CRLF" scheme="http://chanmi-kim.github.io/tags/LF-will-be-replaced-by-CRLF/"/>
     
@@ -150,9 +150,9 @@
     
       <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
     
-      <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
-    
       <category term="Git Bash" scheme="http://chanmi-kim.github.io/tags/Git-Bash/"/>
+    
+      <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
     
       <category term="Expo-CLI" scheme="http://chanmi-kim.github.io/tags/Expo-CLI/"/>
     
@@ -285,7 +285,7 @@
     <summary type="html">
     
       &lt;h2 id=&quot;Algorithm-Dijkstra-다익스트라&quot;&gt;&lt;a href=&quot;#Algorithm-Dijkstra-다익스트라&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : Dijkstra (다익스트라)&quot;&gt;&lt;/a&gt;Algorithm : Dijkstra (다익스트라)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;다익스트라 알고리즘(Dijkstra)은 어떤 변도 음수 가중치를 갖지 않는 유향 그래프에서 주어진 출발점과 도착점 사이의 최단 경로 문제를 푸는 알고리즘입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;다익스트라 알고리즘(Dijkstra)은 어떤 변도 음수 가중치를 갖지 않는 유향 그래프에서 주어진 출발점과 도착점 사이의 최단 경로 문제를 푸는 알고리즘입니다.
     
     </summary>
     
@@ -318,7 +318,7 @@
     <summary type="html">
     
       &lt;h2 id=&quot;1-운영체제-소개&quot;&gt;&lt;a href=&quot;#1-운영체제-소개&quot; class=&quot;headerlink&quot; title=&quot;1. 운영체제 소개&quot;&gt;&lt;/a&gt;1. 운영체제 소개&lt;/h2&gt;&lt;h3 id=&quot;1-개요&quot;&gt;&lt;a href=&quot;#1-개요&quot; class=&quot;headerlink&quot; title=&quot;(1) 개요&quot;&gt;&lt;/a&gt;(1) 개요&lt;/h3&gt;&lt;h4 id=&quot;운영체제란&quot;&gt;&lt;a href=&quot;#운영체제란&quot; class=&quot;headerlink&quot; title=&quot;운영체제란?&quot;&gt;&lt;/a&gt;운영체제란?&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;컴퓨터 하드웨어와 컴퓨터 사용자 간의 매개체 역할을 하는 시스템 소프트웨어&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;컴퓨터 하드웨어와 컴퓨터 사용자 간의 매개체 역할을 하는 시스템 소프트웨어
     
     </summary>
     
@@ -343,7 +343,7 @@
     <summary type="html">
     
       &lt;h2 id=&quot;Algorithm-Permutation-amp-Combination-순열-조합&quot;&gt;&lt;a href=&quot;#Algorithm-Permutation-amp-Combination-순열-조합&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : Permutation &amp;amp; Combination (순열 조합)&quot;&gt;&lt;/a&gt;Algorithm : Permutation &amp;amp; Combination (순열 조합)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;순열(Permutation)은 순서가 부여된 임의의 집합을 다른 순서로 뒤섞는 연산이며, 조합(Combination)은 집합에서 일부 원소를 취해 부분 집합을 만드는 방법을 말합니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;순열(Permutation)은 순서가 부여된 임의의 집합을 다른 순서로 뒤섞는 연산이며, 조합(Combination)은 집합에서 일부 원소를 취해 부분 집합을 만드는 방법을 말합니다.
     
     </summary>
     
@@ -378,7 +378,7 @@
     <summary type="html">
     
       &lt;h2 id=&quot;Algorithm-Dynamic-Programming-동적-계획법&quot;&gt;&lt;a href=&quot;#Algorithm-Dynamic-Programming-동적-계획법&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : Dynamic Programming (동적 계획법)&quot;&gt;&lt;/a&gt;Algorithm : Dynamic Programming (동적 계획법)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;동적 계획법(Dynamic programming)은 복잡한 문제를 풀기위해서 간단한 여러 개의 하위 문제로 나누어 푼 다음, 그것을 결합하여 목적에 도달하는 방법입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;동적 계획법(Dynamic programming)은 복잡한 문제를 풀기위해서 간단한 여러 개의 하위 문제로 나누어 푼 다음, 그것을 결합하여 목적에 도달하는 방법입니다.
     
     </summary>
     
@@ -411,7 +411,7 @@
     <summary type="html">
     
       &lt;h2 id=&quot;Algorithm-Parametric-Search-매개변수-탐색&quot;&gt;&lt;a href=&quot;#Algorithm-Parametric-Search-매개변수-탐색&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : Parametric Search (매개변수 탐색)&quot;&gt;&lt;/a&gt;Algorithm : Parametric Search (매개변수 탐색)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;매개변수 탐색(Parametric Search)은 어떤 알고리즘으로 해를 바로 구해내는 것이 아니고, 임의의 값을 던지고 맞는지 확인해가며 해를 구하는 방법입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;매개변수 탐색(Parametric Search)은 어떤 알고리즘으로 해를 바로 구해내는 것이 아니고, 임의의 값을 던지고 맞는지 확인해가며 해를 구하는 방법입니다.
     
     </summary>
     
@@ -444,7 +444,7 @@
     <summary type="html">
     
       &lt;h2 id=&quot;Algorithm-BFS-Searching-너비-우선-탐색&quot;&gt;&lt;a href=&quot;#Algorithm-BFS-Searching-너비-우선-탐색&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : BFS Searching (너비 우선 탐색)&quot;&gt;&lt;/a&gt;Algorithm : BFS Searching (너비 우선 탐색)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;너비 우선 탐색(BFS Searching, Breadth First Search)은 맹목적 탐색방법의 하나로 시작 정점을 방문한 후 시작 정점에 인접한 모든 정점들을 우선 방문하는 방법입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;너비 우선 탐색(BFS Searching, Breadth First Search)은 맹목적 탐색방법의 하나로 시작 정점을 방문한 후 시작 정점에 인접한 모든 정점들을 우선 방문하는 방법입니다.
     
     </summary>
     
@@ -477,7 +477,7 @@
     <summary type="html">
     
       &lt;h2 id=&quot;Algorithm-DFS-Searching-깊이-우선-탐색&quot;&gt;&lt;a href=&quot;#Algorithm-DFS-Searching-깊이-우선-탐색&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : DFS Searching (깊이 우선 탐색)&quot;&gt;&lt;/a&gt;Algorithm : DFS Searching (깊이 우선 탐색)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;깊이 우선 탐색(DFS Searching, Depth First Searching)은 맹목적 탐색방법의 하나로 한 노드를 시작으로 인접한 다른 노드를 재귀적으로 탐색해가고 끝까지 탐색하면 다시 위로 와서 다음을 탐색하여 검색합니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;깊이 우선 탐색(DFS Searching, Depth First Searching)은 맹목적 탐색방법의 하나로 한 노드를 시작으로 인접한 다른 노드를 재귀적으로 탐색해가고 끝까지 탐색하면 다시 위로 와서 다음을 탐색하여 검색합니다.
     
     </summary>
     
@@ -510,7 +510,7 @@
     <summary type="html">
     
       &lt;h2 id=&quot;Algorithm-Binary-Search-이진-탐색&quot;&gt;&lt;a href=&quot;#Algorithm-Binary-Search-이진-탐색&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : Binary Search(이진 탐색)&quot;&gt;&lt;/a&gt;Algorithm : Binary Search(이진 탐색)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;이진 탐색 알고리즘(Binary search algorithm)은 오름차순으로 정렬된 리스트에서 특정한 값의 위치를 찾는 알고리즘입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;이진 탐색 알고리즘(Binary search algorithm)은 오름차순으로 정렬된 리스트에서 특정한 값의 위치를 찾는 알고리즘입니다.
     
     </summary>
     
@@ -543,7 +543,7 @@
     <summary type="html">
     
       &lt;h2 id=&quot;Algorithm-Counting-Sort-계수-정렬&quot;&gt;&lt;a href=&quot;#Algorithm-Counting-Sort-계수-정렬&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : Counting Sort(계수 정렬)&quot;&gt;&lt;/a&gt;Algorithm : Counting Sort(계수 정렬)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;계수 정렬(Counting sort)는 항목들의 순서를 결정하기 위해 집합에 각 항목이 몇 개씩 있는지 세는 작업을 하면서 정렬하는 알고리즘입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;계수 정렬(Counting sort)는 항목들의 순서를 결정하기 위해 집합에 각 항목이 몇 개씩 있는지 세는 작업을 하면서 정렬하는 알고리즘입니다.
     
     </summary>
     
@@ -576,7 +576,7 @@
     <summary type="html">
     
       &lt;h2 id=&quot;Algorithm-Quick-Sort-퀵-정렬&quot;&gt;&lt;a href=&quot;#Algorithm-Quick-Sort-퀵-정렬&quot; class=&quot;headerlink&quot; title=&quot;Algorithm : Quick Sort(퀵 정렬)&quot;&gt;&lt;/a&gt;Algorithm : Quick Sort(퀵 정렬)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;퀵 정렬(Quick Sort)은 기준키(pivot)를 기준으로 작거나 같은 값을 지닌 데이터는 앞으로, 큰 값을 지닌 데이터는 뒤로 가도록 하여 작은 값을 갖는 데이터와 큰 값을 갖는 데이터로 분리해가며 정렬하는 방법입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;퀵 정렬(Quick Sort)은 기준키(pivot)를 기준으로 작거나 같은 값을 지닌 데이터는 앞으로, 큰 값을 지닌 데이터는 뒤로 가도록 하여 작은 값을 갖는 데이터와 큰 값을 갖는 데이터로 분리해가며 정렬하는 방법입니다.
     
     </summary>
     
@@ -609,7 +609,7 @@
     <summary type="html">
     
       &lt;h2 id=&quot;Data-Structure-Linked-List-연결리스트&quot;&gt;&lt;a href=&quot;#Data-Structure-Linked-List-연결리스트&quot; class=&quot;headerlink&quot; title=&quot;Data Structure : Linked List(연결리스트)&quot;&gt;&lt;/a&gt;Data Structure : Linked List(연결리스트)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;연결리스트(Linked List)는 각 노드가 데이터와 포인터를 가지고 한 줄로 연결되어 있는 방식으로, 데이터를 저장하는 자료 구조입니다.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;연결리스트(Linked List)는 각 노드가 데이터와 포인터를 가지고 한 줄로 연결되어 있는 방식으로, 데이터를 저장하는 자료 구조입니다.
     
     </summary>
     
