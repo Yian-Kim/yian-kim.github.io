@@ -360,13 +360,6 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Job-Hunter/</loc>
-        <lastmod>2019-11-07T12:52:22.690Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://chanmi-kim.github.io/tags/%25EC%25B1%2584%25EC%259A%25A9%25EC%2584%25A4%25EB%25AA%2585%25ED%259A%258C/</loc>
         <lastmod>2019-11-07T12:52:22.690Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -382,6 +375,13 @@
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/NHN/</loc>
+        <lastmod>2019-11-07T12:52:22.690Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Job-Hunter/</loc>
         <lastmod>2019-11-07T12:52:22.690Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
