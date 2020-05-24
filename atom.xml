@@ -34,9 +34,9 @@
       <category term="Essay" scheme="http://chanmi-kim.github.io/categories/Devlog/Essay/"/>
     
     
-      <category term="찬미의 개발블로그" scheme="http://chanmi-kim.github.io/tags/%EC%B0%AC%EB%AF%B8%EC%9D%98-%EA%B0%9C%EB%B0%9C%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
-    
       <category term="Essay" scheme="http://chanmi-kim.github.io/tags/Essay/"/>
+    
+      <category term="찬미의 개발블로그" scheme="http://chanmi-kim.github.io/tags/%EC%B0%AC%EB%AF%B8%EC%9D%98-%EA%B0%9C%EB%B0%9C%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
     
       <category term="Web" scheme="http://chanmi-kim.github.io/tags/Web/"/>
     
@@ -120,8 +120,6 @@
       <category term="Essay" scheme="http://chanmi-kim.github.io/categories/Devlog/Essay/"/>
     
     
-      <category term="찬미의 개발블로그" scheme="http://chanmi-kim.github.io/tags/%EC%B0%AC%EB%AF%B8%EC%9D%98-%EA%B0%9C%EB%B0%9C%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
-    
       <category term="Essay" scheme="http://chanmi-kim.github.io/tags/Essay/"/>
     
       <category term="Github" scheme="http://chanmi-kim.github.io/tags/Github/"/>
@@ -131,6 +129,8 @@
       <category term="Contribution" scheme="http://chanmi-kim.github.io/tags/Contribution/"/>
     
       <category term="일일커밋" scheme="http://chanmi-kim.github.io/tags/%EC%9D%BC%EC%9D%BC%EC%BB%A4%EB%B0%8B/"/>
+    
+      <category term="찬미의 개발블로그" scheme="http://chanmi-kim.github.io/tags/%EC%B0%AC%EB%AF%B8%EC%9D%98-%EA%B0%9C%EB%B0%9C%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
     
   </entry>
   
