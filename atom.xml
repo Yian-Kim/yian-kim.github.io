@@ -6,7 +6,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://chanmi-kim.github.io/"/>
-  <updated>2020-05-24T16:49:28.131Z</updated>
+  <updated>2020-05-24T16:59:19.363Z</updated>
   <id>http://chanmi-kim.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://chanmi-kim.github.io/Devlog/Essay/2020/05/24/2020-NWZ-Internship/"/>
     <id>http://chanmi-kim.github.io/Devlog/Essay/2020/05/24/2020-NWZ-Internship/</id>
     <published>2020-05-24T12:32:59.000Z</published>
-    <updated>2020-05-24T16:49:28.131Z</updated>
+    <updated>2020-05-24T16:59:19.363Z</updated>
     
     <summary type="html">
     
@@ -34,11 +34,17 @@
       <category term="Essay" scheme="http://chanmi-kim.github.io/categories/Devlog/Essay/"/>
     
     
+      <category term="찬미의 개발블로그" scheme="http://chanmi-kim.github.io/tags/%EC%B0%AC%EB%AF%B8%EC%9D%98-%EA%B0%9C%EB%B0%9C%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
+    
       <category term="Essay" scheme="http://chanmi-kim.github.io/tags/Essay/"/>
     
       <category term="Web" scheme="http://chanmi-kim.github.io/tags/Web/"/>
     
       <category term="Developer" scheme="http://chanmi-kim.github.io/tags/Developer/"/>
+    
+      <category term="Intership" scheme="http://chanmi-kim.github.io/tags/Intership/"/>
+    
+      <category term="인턴십" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B8%ED%84%B4%EC%8B%AD/"/>
     
   </entry>
   
@@ -101,7 +107,7 @@
     <link href="http://chanmi-kim.github.io/Devlog/Essay/2019/11/06/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/"/>
     <id>http://chanmi-kim.github.io/Devlog/Essay/2019/11/06/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/</id>
     <published>2019-11-06T14:54:50.000Z</published>
-    <updated>2019-11-10T09:18:23.613Z</updated>
+    <updated>2020-05-24T16:59:29.447Z</updated>
     
     <summary type="html">
     
@@ -113,6 +119,8 @@
     
       <category term="Essay" scheme="http://chanmi-kim.github.io/categories/Devlog/Essay/"/>
     
+    
+      <category term="찬미의 개발블로그" scheme="http://chanmi-kim.github.io/tags/%EC%B0%AC%EB%AF%B8%EC%9D%98-%EA%B0%9C%EB%B0%9C%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
     
       <category term="Essay" scheme="http://chanmi-kim.github.io/tags/Essay/"/>
     
