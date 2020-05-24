@@ -6,7 +6,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://chanmi-kim.github.io/"/>
-  <updated>2020-04-19T14:37:47.495Z</updated>
+  <updated>2020-05-24T14:53:28.668Z</updated>
   <id>http://chanmi-kim.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>웹 백엔드 개발자가 되기 위한 성장통</title>
+    <link href="http://chanmi-kim.github.io/Devlog/Essay/2020/05/24/2020-NWZ-Internship/"/>
+    <id>http://chanmi-kim.github.io/Devlog/Essay/2020/05/24/2020-NWZ-Internship/</id>
+    <published>2020-05-24T12:32:59.000Z</published>
+    <updated>2020-05-24T14:53:28.668Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;퇴사한 지 벌써 한 달이 넘었다. 길다면 긴, 짧다면 짧을 인턴생활이 드디어 끝이 났다. 지난 3개월간의 이야기를 이제서야 정리하게 되었다. 기나긴 고민 끝에 원고를 지웠다 썼다 하면서 글을 작성해보았다.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Devlog" scheme="http://chanmi-kim.github.io/categories/Devlog/"/>
+    
+      <category term="Essay" scheme="http://chanmi-kim.github.io/categories/Devlog/Essay/"/>
+    
+    
+      <category term="Essay" scheme="http://chanmi-kim.github.io/tags/Essay/"/>
+    
+      <category term="Web" scheme="http://chanmi-kim.github.io/tags/Web/"/>
+    
+      <category term="Developer" scheme="http://chanmi-kim.github.io/tags/Developer/"/>
+    
+  </entry>
   
   <entry>
     <title>[이슈해결] 소스트리 종료 현상 - SourceTree Crash Report</title>
@@ -122,9 +148,9 @@
     
       <category term="Hexo" scheme="http://chanmi-kim.github.io/tags/Hexo/"/>
     
-      <category term="Git" scheme="http://chanmi-kim.github.io/tags/Git/"/>
-    
       <category term="이슈등록" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%EB%93%B1%EB%A1%9D/"/>
+    
+      <category term="Git" scheme="http://chanmi-kim.github.io/tags/Git/"/>
     
       <category term="LF will be replaced by CRLF" scheme="http://chanmi-kim.github.io/tags/LF-will-be-replaced-by-CRLF/"/>
     
@@ -150,9 +176,9 @@
     
       <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
     
-      <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
-    
       <category term="Git Bash" scheme="http://chanmi-kim.github.io/tags/Git-Bash/"/>
+    
+      <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
     
       <category term="Expo-CLI" scheme="http://chanmi-kim.github.io/tags/Expo-CLI/"/>
     
@@ -596,39 +622,6 @@
       <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
     
       <category term="Quick Sort" scheme="http://chanmi-kim.github.io/tags/Quick-Sort/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>자료구조 | 연결리스트 (Linked List)</title>
-    <link href="http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/28/Data-Structure-Linked-List/"/>
-    <id>http://chanmi-kim.github.io/Computer-Science/Data-Structure/2019/07/28/Data-Structure-Linked-List/</id>
-    <published>2019-07-28T07:39:07.000Z</published>
-    <updated>2019-11-10T09:18:25.793Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;Data-Structure-Linked-List-연결리스트&quot;&gt;&lt;a href=&quot;#Data-Structure-Linked-List-연결리스트&quot; class=&quot;headerlink&quot; title=&quot;Data Structure : Linked List(연결리스트)&quot;&gt;&lt;/a&gt;Data Structure : Linked List(연결리스트)&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;연결리스트(Linked List)는 각 노드가 데이터와 포인터를 가지고 한 줄로 연결되어 있는 방식으로, 데이터를 저장하는 자료 구조입니다.
-    
-    </summary>
-    
-      <category term="Computer Science" scheme="http://chanmi-kim.github.io/categories/Computer-Science/"/>
-    
-      <category term="Data Structure" scheme="http://chanmi-kim.github.io/categories/Computer-Science/Data-Structure/"/>
-    
-    
-      <category term="Computer Science" scheme="http://chanmi-kim.github.io/tags/Computer-Science/"/>
-    
-      <category term="Java" scheme="http://chanmi-kim.github.io/tags/Java/"/>
-    
-      <category term="C" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="C++" scheme="http://chanmi-kim.github.io/tags/C/"/>
-    
-      <category term="Data Structure" scheme="http://chanmi-kim.github.io/tags/Data-Structure/"/>
-    
-      <category term="Linked List" scheme="http://chanmi-kim.github.io/tags/Linked-List/"/>
     
   </entry>
   

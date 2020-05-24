@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>http://chanmi-kim.github.io/tags/Developer/</loc>
+        <lastmod>2020-05-24T14:53:28.668Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Web/</loc>
+        <lastmod>2020-05-24T14:53:28.668Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://chanmi-kim.github.io/tags/Essay/</loc>
+        <lastmod>2020-05-24T14:53:28.668Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://chanmi-kim.github.io/tags/Crash-Report/</loc>
         <lastmod>2020-04-19T14:37:47.495Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -150,14 +171,14 @@
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/%25EC%259D%25B4%25EC%258A%2588%25EB%2593%25B1%25EB%25A1%259D/</loc>
+        <loc>http://chanmi-kim.github.io/tags/Git/</loc>
         <lastmod>2019-11-10T11:28:57.681Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://chanmi-kim.github.io/tags/Git/</loc>
+        <loc>http://chanmi-kim.github.io/tags/%25EC%259D%25B4%25EC%258A%2588%25EB%2593%25B1%25EB%25A1%259D/</loc>
         <lastmod>2019-11-10T11:28:57.681Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -291,13 +312,6 @@
 
     <url>
         <loc>http://chanmi-kim.github.io/tags/Github/</loc>
-        <lastmod>2019-11-10T09:18:23.613Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://chanmi-kim.github.io/tags/Essay/</loc>
         <lastmod>2019-11-10T09:18:23.613Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
