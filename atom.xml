@@ -6,7 +6,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://chanmi-kim.github.io/"/>
-  <updated>2020-05-25T08:12:48.095Z</updated>
+  <updated>2020-05-26T02:35:38.347Z</updated>
   <id>http://chanmi-kim.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://chanmi-kim.github.io/Devlog/Essay/2020/05/24/2020-NWZ-Internship/"/>
     <id>http://chanmi-kim.github.io/Devlog/Essay/2020/05/24/2020-NWZ-Internship/</id>
     <published>2020-05-24T12:32:59.000Z</published>
-    <updated>2020-05-25T08:12:48.095Z</updated>
+    <updated>2020-05-26T02:35:38.347Z</updated>
     
     <summary type="html">
     
@@ -184,9 +184,9 @@
     
       <category term="Issues" scheme="http://chanmi-kim.github.io/tags/Issues/"/>
     
-      <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
-    
       <category term="Git Bash" scheme="http://chanmi-kim.github.io/tags/Git-Bash/"/>
+    
+      <category term="이슈해결" scheme="http://chanmi-kim.github.io/tags/%EC%9D%B4%EC%8A%88%ED%95%B4%EA%B2%B0/"/>
     
       <category term="Expo-CLI" scheme="http://chanmi-kim.github.io/tags/Expo-CLI/"/>
     
